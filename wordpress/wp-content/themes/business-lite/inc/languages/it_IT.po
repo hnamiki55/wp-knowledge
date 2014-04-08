@@ -1,0 +1,267 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Business Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-28 15:29:01 UTC\n"
+"PO-Revision-Date: 2013-05-30 11:31-0000\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language-Team: Italian, Italy\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: ../../404.php
+msgid "Oops! That page cannot be found."
+msgstr "Oops! Quella pagina non può essere trovata."
+
+#: ../../404.php
+msgid ""
+"It looks like nothing was found at this location. Maybe try searching for it?"
+msgstr ""
+"Sembra che nulla è stato trovato in questa posizione. Magari prova a cercare "
+"qui?"
+
+#: ../../comments.php
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+
+#: ../../comments.php
+msgid "Comment navigation"
+msgstr "Navigazione commenti"
+
+#: ../../comments.php
+msgid "Older Comments"
+msgstr "Anziani Commenti"
+
+#: ../../comments.php
+msgid "Newer Comments"
+msgstr "Commenti più recenti"
+
+#: ../../comments.php
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: ../../content.php
+msgid "Permalink to %s"
+msgstr "Permalink a %s"
+
+#: ../../content.php
+msgid "Continue reading"
+msgstr "Continua a leggere"
+
+#: ../../image.php ../../content.php
+msgid "Pages:"
+msgstr "Pagine"
+
+#: ../../image.php ../../content.php
+msgid "Edit"
+msgstr "mod"
+
+#: ../../sidebar.php ../../sidebar-right.php ../../sidebar-left.php
+#: ../../footer.php
+msgid "Pages"
+msgstr "Pagine"
+
+#: ../../sidebar.php ../../sidebar-right.php ../../sidebar-left.php
+#: ../../footer.php
+msgid "Archives"
+msgstr "Archivi"
+
+#: ../../sidebar.php ../../sidebar-right.php ../../sidebar-left.php
+#: ../../footer.php
+msgid "Categories"
+msgstr "Categorie"
+
+#: ../../sidebar.php ../../sidebar-right.php ../../sidebar-left.php
+#: ../../footer.php
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../../sidebar.php ../../sidebar-right.php ../../sidebar-left.php
+#: ../../footer.php
+msgid ""
+"Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr "Funziona con WordPress."
+
+#: ../../functions.php
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: ../../functions.php
+msgid "(Edit)"
+msgstr "(Modifica)"
+
+#: ../../functions.php
+msgid "says:"
+msgstr "dice"
+
+#: ../../functions.php
+msgid "Your comment is awaiting moderation."
+msgstr "Il commento è in attesa di moderazione."
+
+#: ../../functions.php
+msgid "%1$s"
+msgstr "%1$ s"
+
+#: ../../functions.php
+msgid "Professional Business Theme"
+msgstr "Tema di attività professionale"
+
+#: ../../functions.php
+msgid "Secondary Menu"
+msgstr "Menu secondario"
+
+#: ../../functions.php
+msgid "View all posts by %s"
+msgstr "Vedi tutti gli articoli di %s"
+
+#: ../../functions.php
+msgid "Leave a comment"
+msgstr "Lascia un commento"
+
+#: ../../functions.php
+msgid "1 Comment"
+msgstr "1 commento"
+
+#: ../../functions.php
+msgid "Comments"
+msgstr "risposte"
+
+#: ../../functions.php
+msgid "Our Blog"
+msgstr "Il nostro Blog"
+
+#: ../../functions.php
+msgid "Category Archives: %s"
+msgstr "Archivio Categoria: %s"
+
+#: ../../functions.php
+msgid "Tag Archives: %s"
+msgstr "Archivio tag: %s"
+
+#: ../../functions.php
+msgid "Author Archives: %s"
+msgstr "Archivi autore: %s"
+
+#: ../../functions.php
+msgid "Daily Archives: %s"
+msgstr "Archivi giornalieri: %s"
+
+#: ../../functions.php
+msgid "Monthly Archives: %s"
+msgstr "Archivio mensile:%s"
+
+#: ../../functions.php
+msgid "Yearly Archives: %s"
+msgstr "Archivi annuali: %s"
+
+#: ../../functions.php
+msgid "Search Results for: %s"
+msgstr "Risultati della ricerca di: %s"
+
+#: ../../functions.php
+msgid "Logo"
+msgstr "Logo"
+
+#: ../../functions.php
+msgid "Logo + Login"
+msgstr "Logo + Login"
+
+#: ../../functions.php
+msgid "Logo + Search"
+msgstr "Logo + Ricerca"
+
+#: ../../image.php
+msgid "Published"
+msgstr "Pubblicato"
+
+#: ../../image.php
+msgid "size"
+msgstr "Dim."
+
+#: ../../image.php
+msgid "in"
+msgstr "tra"
+
+#: ../../image.php
+msgid "Previous"
+msgstr "precedente"
+
+#: ../../image.php
+msgid "Next"
+msgstr "Avanti"
+
+#: ../../image.php
+msgid "Post a comment"
+msgstr "Posta un commento"
+
+#: ../../image.php
+msgid "or leave a trackback"
+msgstr "o lascia un trackback"
+
+#: ../../image.php
+msgid "Trackback URL"
+msgstr "Trackback URL"
+
+#: ../../image.php
+msgid "Comments are closed, but you can leave a trackback: "
+msgstr "I commenti sono chiusi, ma puoi lasciare un trackback"
+
+#: ../../image.php
+msgid "Trackbacks are closed, but you can %s"
+msgstr "Trackbacks sono chiusi, ma puoi %s"
+
+#: ../../image.php
+msgid "post a comment"
+msgstr "Posta un commento"
+
+#: ../../image.php
+msgid "Both comments and trackbacks are currently closed."
+msgstr "I commenti ed i trackbacks sono attualmente chiusi."
+
+#: ../../no-results.php
+msgid "Nothing Found"
+msgstr "Nessun risultato"
+
+#: ../../no-results.php
+msgid "Ready to publish your first post?"
+msgstr "Pronto a pubblicare il tuo primo post?"
+
+#: ../../no-results.php
+msgid "Get started here"
+msgstr "Inizia qui"
+
+#: ../../no-results.php
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Spiacente, ma nulla corrisponde ai tuoi termini di ricerca. Riprova con "
+"alcune parole chiave diverse."
+
+#: ../../no-results.php
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Sembra che non riusciamo a trovare ciò che stai cercando. Forse la ricerca "
+"può aiutare."
+
+#: ../../searchform.php
+msgid "Search &hellip;"
+msgstr "Ricerca &hellip;"
+
+#: ../../sidebar.php ../../sidebar-right.php ../../sidebar-left.php
+msgid "Subscribe"
+msgstr "Abbonati"
+
+#: ../../sidebar.php ../../sidebar-right.php ../../sidebar-left.php
+msgid "Entries (RSS)"
+msgstr "Entries (RSS)"
+
+#: ../../sidebar.php ../../sidebar-right.php ../../sidebar-left.php
+msgid "Comments (RSS)"
+msgstr "Commenti (RSS)"

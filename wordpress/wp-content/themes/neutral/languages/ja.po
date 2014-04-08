@@ -1,0 +1,805 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: neutral\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-13 20:56+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: mono-lab <mail@mono-lab.net>\n"
+"Language-Team: monolab <mail@monolab.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Japanese\n"
+"X-Poedit-Country: JAPAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: I:\\xampplite\\htdocs\\neutral\n"
+"X-Poedit-SearchPath-0: wp-content\\themes\\neutral\n"
+
+#: wp-content\themes\neutral/404.php:7
+msgid "Error 404 Not Found."
+msgstr "お探しのページが見つかりませんでした。"
+
+#: wp-content\themes\neutral/archive.php:10
+#, php-format
+msgid "Archive for the &#8216;<span id=\"keyword\"> %s </span>&#8217; Category"
+msgstr "カテゴリー : <span id=\"keyword\"> %s </span>"
+
+#: wp-content\themes\neutral/archive.php:13
+#, php-format
+msgid "Posts Tagged &#8216;<span id=\"keyword\"> %s </span>&#8217;"
+msgstr "タグ : <span id=\"keyword\"> %s </span>"
+
+#: wp-content\themes\neutral/archive.php:16
+#: wp-content\themes\neutral/archive.php:19
+#: wp-content\themes\neutral/archive.php:22
+#, php-format
+msgid "Archive for &#8216;<span id=\"keyword\"> %s </span>&#8217;"
+msgstr "カテゴリー : <span id=\"keyword\"> %s </span>"
+
+#: wp-content\themes\neutral/archive.php:16
+msgid "F jS, Y"
+msgstr "Y年 n月j日"
+
+#: wp-content\themes\neutral/archive.php:19
+msgid "F, Y"
+msgstr "Y年 n月"
+
+#: wp-content\themes\neutral/archive.php:22
+msgid "Y"
+msgstr "Y年"
+
+#: wp-content\themes\neutral/archive.php:25
+msgid "Author Archive"
+msgstr "投稿者アーカイブ"
+
+#: wp-content\themes\neutral/archive.php:28
+msgid "Blog Archives"
+msgstr "アーカイブ"
+
+#: wp-content\themes\neutral/archive.php:38
+#: wp-content\themes\neutral/comments.php:116
+#: wp-content\themes\neutral/functions.php:124
+#: wp-content\themes\neutral/index.php:12
+#: wp-content\themes\neutral/search.php:17
+#: wp-content\themes\neutral/single.php:22
+msgid "M jS. Y"
+msgstr "Y n/j"
+
+#: wp-content\themes\neutral/archive.php:39
+#: wp-content\themes\neutral/index.php:13
+#: wp-content\themes\neutral/search.php:18
+#: wp-content\themes\neutral/single.php:25
+msgid "By "
+msgstr "投稿者 : "
+
+#: wp-content\themes\neutral/archive.php:40
+#: wp-content\themes\neutral/comments.php:117
+#: wp-content\themes\neutral/index.php:14
+#: wp-content\themes\neutral/search.php:19
+#: wp-content\themes\neutral/single.php:27
+msgid "[ EDIT ]"
+msgstr "[ 編集 ]"
+
+#: wp-content\themes\neutral/archive.php:44
+#: wp-content\themes\neutral/index.php:18
+#: wp-content\themes\neutral/page-nocomment.php:16
+#: wp-content\themes\neutral/page-noside-nocomment.php:16
+#: wp-content\themes\neutral/page-noside.php:16
+#: wp-content\themes\neutral/page.php:11
+#: wp-content\themes\neutral/single.php:31
+msgid "Read more"
+msgstr "続きを読む"
+
+#: wp-content\themes\neutral/archive.php:53
+#: wp-content\themes\neutral/comments.php:39
+#: wp-content\themes\neutral/index.php:27
+#: wp-content\themes\neutral/single.php:26
+msgid "Write comment"
+msgstr "コメントを書く"
+
+#: wp-content\themes\neutral/archive.php:53
+#: wp-content\themes\neutral/index.php:27
+msgid "1 comment"
+msgstr "コメント (1) "
+
+#: wp-content\themes\neutral/archive.php:53
+#: wp-content\themes\neutral/index.php:27
+#, php-format
+msgid "% comments"
+msgstr "コメント (%)"
+
+#: wp-content\themes\neutral/archive.php:60
+#: wp-content\themes\neutral/index.php:35
+#: wp-content\themes\neutral/page-nocomment.php:23
+#: wp-content\themes\neutral/page-noside-nocomment.php:23
+#: wp-content\themes\neutral/page-noside.php:23
+#: wp-content\themes\neutral/page.php:18
+#: wp-content\themes\neutral/search.php:27
+#: wp-content\themes\neutral/single.php:39
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "該当する記事は見つかりませんでした。"
+
+#: wp-content\themes\neutral/archive.php:68
+#: wp-content\themes\neutral/index.php:44
+#: wp-content\themes\neutral/search.php:36
+msgid "Older posts"
+msgstr "古い記事"
+
+#: wp-content\themes\neutral/archive.php:69
+#: wp-content\themes\neutral/index.php:45
+#: wp-content\themes\neutral/search.php:37
+msgid "Newer posts"
+msgstr "新しい記事"
+
+#: wp-content\themes\neutral/comments.php:10
+#: wp-content\themes\neutral/comments.php:19
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "この投稿はパスワードで保護されています。コメントを閲覧するにはパスワードを入力してください。"
+
+#: wp-content\themes\neutral/comments.php:41
+msgid "Comments RSS"
+msgstr "コメント RSS"
+
+#: wp-content\themes\neutral/comments.php:46
+msgid "Trackback"
+msgstr "トラックバック"
+
+#: wp-content\themes\neutral/comments.php:47
+#: wp-content\themes\neutral/comments.php:50
+msgid "Comments"
+msgstr "コメント"
+
+#: wp-content\themes\neutral/comments.php:49
+msgid "Trackback are closed"
+msgstr "トラックバック　停止中"
+
+#: wp-content\themes\neutral/comments.php:78
+msgid "No comments yet."
+msgstr "コメントはまだありません。"
+
+#: wp-content\themes\neutral/comments.php:105
+msgid "TrackBack URL"
+msgstr "トラックバック URL"
+
+#: wp-content\themes\neutral/comments.php:120
+msgid "Trackback from : "
+msgstr "トラックバック先 :"
+
+#: wp-content\themes\neutral/comments.php:126
+msgid "No trackbacks yet."
+msgstr "トラックバックはまだありません。"
+
+#: wp-content\themes\neutral/comments.php:141
+msgid "Comment are closed."
+msgstr "コメント　停止中"
+
+#: wp-content\themes\neutral/comments.php:156
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "コメントするには、 <a href=\"%s\">[ ログイン ]</a> する必要があります。"
+
+#: wp-content\themes\neutral/comments.php:175
+#: wp-content\themes\neutral/comments.php:177
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "<a href=\"%1$s\">%2$s</a> としてログインしています。"
+
+#: wp-content\themes\neutral/comments.php:175
+#: wp-content\themes\neutral/comments.php:177
+msgid "Log out of this account"
+msgstr "このアカウントからログアウトする。"
+
+#: wp-content\themes\neutral/comments.php:175
+msgid "[ Log out ]"
+msgstr "[ ログアウト ]"
+
+#: wp-content\themes\neutral/comments.php:177
+msgid "Log out"
+msgstr "ログアウト"
+
+#: wp-content\themes\neutral/comments.php:182
+msgid "NAME"
+msgstr "名前"
+
+#: wp-content\themes\neutral/comments.php:182
+#: wp-content\themes\neutral/comments.php:183
+msgid "( required )"
+msgstr "( 必須 )"
+
+#: wp-content\themes\neutral/comments.php:183
+msgid "E-MAIL"
+msgstr "メールアドレス"
+
+#: wp-content\themes\neutral/comments.php:183
+msgid "- will not be published -"
+msgstr "- 公開されません -"
+
+#: wp-content\themes\neutral/comments.php:184
+msgid "URL"
+msgstr "URL"
+
+#: wp-content\themes\neutral/comments.php:197
+msgid "Submit Comment"
+msgstr "コメントを送信する"
+
+#: wp-content\themes\neutral/footer.php:5
+msgid "Theme designed by mono-lab"
+msgstr ""
+
+#: wp-content\themes\neutral/footer.php:6
+msgid "Powered by WordPress"
+msgstr ""
+
+#: wp-content\themes\neutral/footer.php:9
+msgid "Return top"
+msgstr "TOP"
+
+#: wp-content\themes\neutral/functions.php:40
+msgid "Header menu"
+msgstr "ヘッダーメニュー"
+
+#: wp-content\themes\neutral/functions.php:52
+msgid "Side top"
+msgstr "上"
+
+#: wp-content\themes\neutral/functions.php:60
+msgid "Side middle left"
+msgstr "中央左"
+
+#: wp-content\themes\neutral/functions.php:68
+msgid "Side middle right"
+msgstr "中央右"
+
+#: wp-content\themes\neutral/functions.php:76
+msgid "Side bottom"
+msgstr "下"
+
+#: wp-content\themes\neutral/functions.php:124
+msgid " g:ia"
+msgstr ""
+
+#: wp-content\themes\neutral/functions.php:131
+#: wp-content\themes\neutral/functions.php:133
+#: wp-content\themes\neutral/functions.php:136
+msgid "REPLY"
+msgstr "返信"
+
+#: wp-content\themes\neutral/functions.php:138
+msgid "QUOTE"
+msgstr "引用"
+
+#: wp-content\themes\neutral/functions.php:139
+msgid "EDIT"
+msgstr "編集"
+
+#: wp-content\themes\neutral/functions.php:145
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは管理人の承認待ちです。（ あなた以外の人には表示されていません。 ）"
+
+#: wp-content\themes\neutral/header.php:9
+#, php-format
+msgid "Page %s"
+msgstr "ページ %s"
+
+#: wp-content\themes\neutral/header.php:56
+#: wp-content\themes\neutral/header.php:66
+msgid "SEARCH"
+msgstr "サイト内検索"
+
+#: wp-content\themes\neutral/header.php:59
+#: wp-content\themes\neutral/header.php:67
+msgid "Search from this blog."
+msgstr "サイト内検索"
+
+#: wp-content\themes\neutral/header.php:73
+msgid "RSS"
+msgstr "RSS"
+
+#: wp-content\themes\neutral/header.php:76
+msgid "Twitter"
+msgstr "Twitter"
+
+#: wp-content\themes\neutral/header.php:79
+msgid "Facebook"
+msgstr ""
+
+#: wp-content\themes\neutral/navigation.php:16
+msgid "PAGE NAVI"
+msgstr ""
+
+#: wp-content\themes\neutral/navigation.php:22
+msgid "RETURN HOME"
+msgstr "TOP"
+
+#: wp-content\themes\neutral/search.php:8
+msgid "Search results for "
+msgstr "検索結果 : "
+
+#: wp-content\themes\neutral/search.php:8
+msgid " hit"
+msgstr "件"
+
+#: wp-content\themes\neutral/search.php:22
+msgid "[ READ MORE ]"
+msgstr "[ 続きを読む]"
+
+#: wp-content\themes\neutral/sidebar.php:33
+msgid "RECENT ENTRY"
+msgstr "RECENT ENTRY"
+
+#: wp-content\themes\neutral/sidebar.php:45
+msgid "CATEGORY"
+msgstr "CATEGORY"
+
+#: wp-content\themes\neutral/sidebar.php:53
+msgid "ARCHIVES"
+msgstr "ARCHIVES"
+
+#: wp-content\themes\neutral/sidebar.php:63
+msgid "LINKS"
+msgstr "LINKS"
+
+#: wp-content\themes\neutral/single.php:9
+msgid "HOME"
+msgstr "ホーム"
+
+#: wp-content\themes\neutral/single.php:23
+msgid "Posted in "
+msgstr "カテゴリー : "
+
+#: wp-content\themes\neutral/admin/theme-options.php:25
+msgid "Change this sentence and title from admin Theme option page."
+msgstr "管理画面のテーマオプションページからこの文章を変更してください。"
+
+#: wp-content\themes\neutral/admin/theme-options.php:74
+#: wp-content\themes\neutral/admin/theme-options.php:137
+msgid "Theme Options"
+msgstr "テーマオプション"
+
+#: wp-content\themes\neutral/admin/theme-options.php:86
+msgid "No sidebar"
+msgstr "表示しない"
+
+#: wp-content\themes\neutral/admin/theme-options.php:91
+msgid "Show sidebar"
+msgstr "表示する"
+
+#: wp-content\themes\neutral/admin/theme-options.php:100
+msgid "Use pager"
+msgstr "ページナビ"
+
+#: wp-content\themes\neutral/admin/theme-options.php:105
+msgid "Use normal link"
+msgstr "通常のリンク"
+
+#: wp-content\themes\neutral/admin/theme-options.php:142
+msgid "Updated"
+msgstr "設定を更新しました"
+
+#: wp-content\themes\neutral/admin/theme-options.php:166
+msgid "Basic Setup"
+msgstr "基本設定"
+
+#: wp-content\themes\neutral/admin/theme-options.php:167
+msgid "Logo"
+msgstr "ロゴの設定"
+
+#: wp-content\themes\neutral/admin/theme-options.php:181
+msgid "Display Setup"
+msgstr "各項目の表示設定"
+
+#: wp-content\themes\neutral/admin/theme-options.php:184
+msgid "Display author name"
+msgstr "投稿者名を表示する"
+
+#: wp-content\themes\neutral/admin/theme-options.php:185
+msgid "Display category"
+msgstr "カテゴリーを表示する"
+
+#: wp-content\themes\neutral/admin/theme-options.php:186
+msgid "Display tags"
+msgstr "タグを表示する"
+
+#: wp-content\themes\neutral/admin/theme-options.php:187
+msgid "Display date"
+msgstr "日付を表示する"
+
+#: wp-content\themes\neutral/admin/theme-options.php:188
+msgid "Display comment"
+msgstr "コメントを表示する"
+
+#: wp-content\themes\neutral/admin/theme-options.php:189
+msgid "Display comment time"
+msgstr "コメントに時間を表示する"
+
+#: wp-content\themes\neutral/admin/theme-options.php:190
+msgid "Display next previous post link at single page"
+msgstr "次の記事、前の記事リンクを記事の詳細ページに表示する"
+
+#: wp-content\themes\neutral/admin/theme-options.php:191
+msgid "Display breadcrumb at single page"
+msgstr "パンくずナビを記事の詳細ページに表示する"
+
+#: wp-content\themes\neutral/admin/theme-options.php:192
+msgid "Display return top link  at bottom of the page"
+msgstr "「ページ上部へ戻る」リンクをページ下部に表示する"
+
+#: wp-content\themes\neutral/admin/theme-options.php:193
+msgid "Display search form at header"
+msgstr "検索フォームをページ上部に表示する"
+
+#: wp-content\themes\neutral/admin/theme-options.php:194
+msgid "Display rss at header"
+msgstr "RSSアイコンをページ上部に表示する"
+
+#: wp-content\themes\neutral/admin/theme-options.php:195
+msgid "Display site description under site title"
+msgstr "サイトタイトルの下にサイトの説明文を表示する"
+
+#: wp-content\themes\neutral/admin/theme-options.php:202
+msgid "Side information setting"
+msgstr "右サイドのインフォメーション設定"
+
+#: wp-content\themes\neutral/admin/theme-options.php:204
+msgid "Please make this field blank if you don't want to display at the site."
+msgstr "サイトに表示させたくない場合は、このエリアを空欄にしてください。"
+
+#: wp-content\themes\neutral/admin/theme-options.php:206
+msgid "Title of information area"
+msgstr "インフォメーション部分のタイトル"
+
+#: wp-content\themes\neutral/admin/theme-options.php:217
+#: wp-content\themes\neutral/admin/theme-options.php:219
+msgid "Layout"
+msgstr "サイドコンテンツについて"
+
+#: wp-content\themes\neutral/admin/theme-options.php:247
+#: wp-content\themes\neutral/admin/theme-options.php:249
+msgid "Pager type"
+msgstr "ページナビの種類"
+
+#: wp-content\themes\neutral/admin/theme-options.php:277
+msgid "twitter and facebook setup"
+msgstr "twitterとfacebookの設定"
+
+#: wp-content\themes\neutral/admin/theme-options.php:279
+msgid "When it is blank, twitter and facebook icon will not displayed on a site."
+msgstr "空欄の場合は、twitterとfacebookアイコンは表示されません。"
+
+#: wp-content\themes\neutral/admin/theme-options.php:282
+msgid "your twitter URL"
+msgstr "あなたのtwitter URL"
+
+#: wp-content\themes\neutral/admin/theme-options.php:286
+msgid "your facebook URL"
+msgstr "あなたのfacebook URL"
+
+#: wp-content\themes\neutral/admin/theme-options.php:295
+msgid "Using Google custom search"
+msgstr "Googleカスタム検索の設定"
+
+#: wp-content\themes\neutral/admin/theme-options.php:297
+msgid "If you want to use google custom search for your wordpress, enter your google custom search ID.<br /><a href=\"http://www.google.com/cse/\" target=\"_blank\">Read more about Google custom search page.</a>"
+msgstr "Googleカスタム検索をサイト内検索として利用したい場合は、Googleカスタム検索IDを入力してください。<br /><a href=\"http://www.google.com/cse/\" target=\"_blank\">Googleカスタム検索についてはこちらをご参照ください。</a>"
+
+#: wp-content\themes\neutral/admin/theme-options.php:298
+msgid "Google custom search ID"
+msgstr "Googleカスタム検索ID"
+
+#: wp-content\themes\neutral/admin/theme-options.php:303
+msgid "Save Changes"
+msgstr "情報を更新する"
+
+#: wp-content\themes\neutral/admin/theme-options.php:315
+msgid "Step 1 : Upload image to use for logo."
+msgstr "ステップ１：ロゴとして利用する画像のアップロード"
+
+#: wp-content\themes\neutral/admin/theme-options.php:317
+msgid "Upload image to use for logo from your computer.<br />You can resize your logo image in step 2 and adjust position in step 3."
+msgstr "自分のコンピュータから登録したいロゴ画像を選択してください。<br />ロゴ画像を選択した後にアップロードボタンをクリックしてロゴ画像を登録します。<br />登録したロゴ画像はステップ２よりリサイズ・切り抜きを行う事ができ、ステップ３より表示位置を調整する事ができます。"
+
+#: wp-content\themes\neutral/admin/theme-options.php:319
+msgid "Select image to use for logo from your computer."
+msgstr "自分のコンピュータから画像を選択: "
+
+#: wp-content\themes\neutral/admin/theme-options.php:321
+msgid "Upload"
+msgstr "アップロードする"
+
+#: wp-content\themes\neutral/admin/theme-options.php:325
+msgid "Uploaded image."
+msgstr "アップロードされたロゴ"
+
+#: wp-content\themes\neutral/admin/theme-options.php:329
+#, php-format
+msgid "Original image size : width %1$dpx, height %2$dpx"
+msgstr "オリジナルの画像サイズ: 横幅 %1$dpx, 縦幅 %2$dpx"
+
+#: wp-content\themes\neutral/admin/theme-options.php:333
+msgid "The image has not been uploaded yet.<br />A normal text will be used for a site logo."
+msgstr "画像が登録されていません。<br />画像が登録されていない場合は、通常のテキストがサイトのロゴとして表示されます。"
+
+#: wp-content\themes\neutral/admin/theme-options.php:342
+msgid "Step 2 : Resize uploaded image."
+msgstr "ステップ２：アップロードした画像のリサイズ"
+
+#: wp-content\themes\neutral/admin/theme-options.php:345
+msgid "You can resize uploaded image.<br />If you don't need to resize, go to step 3."
+msgstr "アップロードされた画像はリサイズ・切り抜きすることができます。<br />画像の上で切り抜く範囲を選択して、青色の「リサイズ」ボタンをクリックしてください。<br />リサイズが不要の場合は、ステップ２は飛ばしてステップ３へお進みください。"
+
+#: wp-content\themes\neutral/admin/theme-options.php:347
+msgid "Please drag the range to cut off."
+msgstr "切り取る範囲をドラッグしてください。"
+
+#: wp-content\themes\neutral/admin/theme-options.php:352
+msgid "Ratio"
+msgstr "比率"
+
+#: wp-content\themes\neutral/admin/theme-options.php:353
+msgid "Width"
+msgstr "横幅"
+
+#: wp-content\themes\neutral/admin/theme-options.php:354
+msgid "Height"
+msgstr "縦幅"
+
+#: wp-content\themes\neutral/admin/theme-options.php:357
+msgid "Resize"
+msgstr "リサイズ"
+
+#: wp-content\themes\neutral/admin/theme-options.php:362
+#, php-format
+msgid "Resized image : width %1$dpx, height %2$dpx"
+msgstr "リサイズされた画像サイズ: 横幅 %1$dpx, 縦幅 %2$dpx"
+
+#: wp-content\themes\neutral/admin/theme-options.php:376
+msgid "Step 3 : Adjust position of logo."
+msgstr "ステップ３：位置の調整"
+
+#: wp-content\themes\neutral/admin/theme-options.php:379
+msgid "Drag the logo image and adjust the position."
+msgstr "ロゴ画像をドラッグして位置を調整してください。<br />位置の調整が完了しましたら下にある「ロゴの位置を決定する」ボタンをクリックして作業を完了してください。"
+
+#: wp-content\themes\neutral/admin/theme-options.php:383
+msgid "Logo size is too big. Please resize your logo image."
+msgstr "登録された画像が大き過ぎます。リサイズして小さくしてください。"
+
+#: wp-content\themes\neutral/admin/theme-options.php:387
+msgid "Top"
+msgstr "上"
+
+#: wp-content\themes\neutral/admin/theme-options.php:388
+msgid "Left"
+msgstr "左側に表示する"
+
+#: wp-content\themes\neutral/admin/theme-options.php:391
+msgid "Save the position"
+msgstr "ロゴの位置を決定する"
+
+#: wp-content\themes\neutral/admin/theme-options.php:400
+msgid "Delete logo image."
+msgstr "画像を削除する"
+
+#: wp-content\themes\neutral/admin/theme-options.php:402
+msgid "If you delete the logo image, normal text will be used for a site logo."
+msgstr "登録したロゴ画像を削除した場合、ロゴの代わりに通常のテキストが表示されます。"
+
+#: wp-content\themes\neutral/admin/theme-options.php:403
+msgid "Are you sure to delete logo image?"
+msgstr "登録したロゴ画像を削除してもよろしいでしょうか？"
+
+#: wp-content\themes\neutral/admin/theme-options.php:403
+msgid "Delete Image"
+msgstr "画像を削除する"
+
+#: wp-content\themes\neutral/admin/update_notifier.php:12
+msgid "Theme Update<span class=\"update-plugins count-1\"><span class=\"update-count\">1</span></span>"
+msgstr "テーマ更新<span class=\"update-plugins count-1\"><span class=\"update-count\">1</span></span>"
+
+#: wp-content\themes\neutral/admin/update_notifier.php:34
+msgid "Theme Update Information"
+msgstr "テーマ更新情報"
+
+#: wp-content\themes\neutral/admin/update_notifier.php:36
+msgid "Current theme version is"
+msgstr "現在ご利用中のバージョン："
+
+#: wp-content\themes\neutral/admin/update_notifier.php:36
+msgid "Now you can update to"
+msgstr "最新版のバージョン："
+
+#: wp-content\themes\neutral/admin/update_notifier.php:39
+msgid "Please take backup of your theme before updating to latest version!"
+msgstr "アップデートする前には、必ず古いテーマのバックアップをとってから行ってください。"
+
+#: wp-content\themes\neutral/admin/update_notifier.php:40
+msgid "Download latest version"
+msgstr "テーマの最新版をダウンロードする"
+
+#: wp-content\themes\neutral/admin/update_notifier.php:42
+msgid "Changelog"
+msgstr "更新内容"
+
+#: wp-content\themes\neutral/functions/header-logo.php:231
+#, php-format
+msgid "Cannot create upload directory. Please make sure <code>%s</code> is writable."
+msgstr "画像を収納するディレクトリを新規作成できませんでした。<br />かならず、「 <code>%s</code> 」を書き込み可能なパーミッションに変更してください。"
+
+#: wp-content\themes\neutral/functions/header-logo.php:243
+#, php-format
+msgid "Cannot save uploaded file. Please make sure <code>%s</code> is writable."
+msgstr "アップロードしたファイルを保存できませんでした。<br />からなず、「 <code>%s</code> 」を書き込み可能なパーミッションに変更してください。"
+
+#: wp-content\themes\neutral/functions/header-logo.php:254
+msgid "Uploaded file type is not allowed. Allowed file types are PNG, JPG and GIF."
+msgstr "アップロードできるファイル形式は、gif, jpg, png の３種類のみになります。"
+
+#: wp-content\themes\neutral/functions/header-logo.php:266
+#, php-format
+msgid "Cannot delete existing file <code>%s</code>"
+msgstr "「 <code>%s</code> 」を削除する事ができませんでした。"
+
+#: wp-content\themes\neutral/functions/header-logo.php:276
+msgid "Sorry, but cannot save uploaded file."
+msgstr "保存できませんでした。"
+
+#: wp-content\themes\neutral/functions/header-logo.php:282
+msgid "Logo file was successfully uploaded."
+msgstr "保存しました。"
+
+#: wp-content\themes\neutral/functions/header-logo.php:326
+#, php-format
+msgid "Failed to delete image. Please check permisson of %s. All files must be writable."
+msgstr "画像の削除に失敗しました。「 %s 」を書き込み可能なパーミッションに変更してください。"
+
+#: wp-content\themes\neutral/functions/header-logo.php:333
+msgid "Images are successfully deleted."
+msgstr "画像を削除しました。"
+
+#: wp-content\themes\neutral/functions/header-logo.php:354
+#: wp-content\themes\neutral/functions/header-logo.php:359
+msgid "Logo file not exists."
+msgstr "ロゴファイルは登録されていません。"
+
+#: wp-content\themes\neutral/functions/header-logo.php:379
+msgid "Cannot delete existing resized logo."
+msgstr "削除する事ができませんでした。"
+
+#: wp-content\themes\neutral/functions/header-logo.php:395
+msgid "Logo image is successfully resized."
+msgstr "ロゴ画像のサイズを変更しました。"
+
+#: wp-content\themes\neutral/functions/header-logo.php:397
+#, php-format
+msgid "Failed to save resized logo. Please check permission of <code>%s</code>"
+msgstr "ロゴ画像のサイズを変更できませんでした。<br />「 <code>%s</code> 」を書き込み可能なパーミッションに変更してください。"
+
+#: wp-content\themes\neutral/functions/header-logo.php:410
+msgid "Uploaded file size is larger than limit set in php.ini."
+msgstr "サーバーが制限している画像サイズを超えているため、アップロードできません。"
+
+#: wp-content\themes\neutral/functions/header-logo.php:413
+msgid "Uploaded file size is larget than post file size."
+msgstr "画像サイズが大きすぎます。"
+
+#: wp-content\themes\neutral/functions/header-logo.php:416
+msgid "The file has been uploaded only partially. Connection error may have occured"
+msgstr "画像を正常にアップロードできませんでした。再度お試しください。"
+
+#: wp-content\themes\neutral/functions/header-logo.php:419
+msgid "Uploaded file size is too large."
+msgstr "画像サイズが大きすぎます。"
+
+#: wp-content\themes\neutral/functions/header-logo.php:422
+msgid "No temporary directory exists. Please check PHP Setting is valid."
+msgstr "該当するディレクトが存在しません。"
+
+#: wp-content\themes\neutral/functions/header-logo.php:425
+msgid "Failed to write to disk. OS file setting or something is wrong."
+msgstr "データベースに情報を保存できませんでした。"
+
+#: wp-content\themes\neutral/functions/header-logo.php:428
+msgid "PHP extension module stops uploading. Check PHP setting."
+msgstr "アップロードが途中で中断されました。PHPの設定をご確認ください。"
+
+#: wp-content\themes\neutral/functions/header-logo.php:431
+msgid "Upload failed. Sorry, but reasons cannot be detected."
+msgstr "アップロードに失敗しました。原因は不明です。"
+
+#~ msgid "Theme options have been saved."
+#~ msgstr "オプションは更新されました。"
+
+#~ msgid ""
+#~ "Check if you would like to use original image for logo instead of using "
+#~ "plain text.<br />( Don't forget to upload image to, wp-content/themes/"
+#~ "neutral/img/ )"
+#~ msgstr ""
+#~ "ブログのタイトルに画像を使いたい場合は、下にチェックを入れてください。"
+#~ "<br />注意：必ず画像を、wp-content/themes/neutral/img/ にアップロードし、"
+#~ "下にアップロードした画像名をご記入ください。"
+
+#~ msgid "Yes"
+#~ msgstr "はい"
+
+#~ msgid "Write your logo file name."
+#~ msgstr "画像の名前"
+
+#~ msgid "Show Search area on header."
+#~ msgstr "ヘッダーに検索ボックスを表示する。"
+
+#~ msgid ""
+#~ "Use <a href=\"http://www.google.com/cse/\">Google Custom Search</a><br />"
+#~ "(If you check this option,don't forget to write your Google Custom Search "
+#~ "ID below.)"
+#~ msgstr ""
+#~ "Googleカスタム検索を利用する。<br />利用する場合は、右のアドレスよりGoogle"
+#~ "カスタム検索IDを取得してください。 <a href=\"http://www.google.com/cse/"
+#~ "\">Googleカスタム検索</a>"
+
+#~ msgid "Show RSS button on header."
+#~ msgstr "ヘッダーにRSSボタンを表示する。"
+
+#~ msgid "Show Twitter button on header."
+#~ msgstr "ヘッダーにツイッターボタンを表示する。"
+
+#~ msgid "Information contents. ( HTML tag is available. )"
+#~ msgstr "インフォメーションの内容。（HTMLタグの利用可）"
+
+#~ msgid ""
+#~ "Check if you would like to use Custom Navigation Menus in WordPress 3.0."
+#~ msgstr ""
+#~ "WordPress3.0のカスタムメニューを使いたい場合は、下にチェックを入れてくださ"
+#~ "い。<br />カスタムメニューは外観項目から設定できます。"
+
+#~ msgid "Use pages for header menu."
+#~ msgstr "ページを利用する。"
+
+#~ msgid "Use categories for header menu."
+#~ msgstr "カテゴリーを利用する。"
+
+#~ msgid ""
+#~ "Exclude Pages (Page ID's you don't want displayed in your header "
+#~ "navigation. Use a comma-delimited list, eg. 1,2,3)"
+#~ msgstr ""
+#~ "ヘッダーメニューに表示したくないページ<br />（ページのＩＤを半角数字で記入"
+#~ "してください。複数有る場合は、カンマ「,」で区切ってください。記入例： "
+#~ "1,2,3 ）<br />注意：一番最後の数字の後にはカンマを入れないでください。"
+
+#~ msgid ""
+#~ "Exclude Categories (Category ID's you don't want displayed in your header "
+#~ "navigation. Use a comma-delimited list, eg. 1,2,3)"
+#~ msgstr ""
+#~ "ヘッダーメニューに表示したくないカテゴリー<br />（ページのＩＤを半角数字で"
+#~ "記入してください。複数有る場合は、カンマ「,」で区切ってください。記入例： "
+#~ "1,2,3 ）<br />注意：一番最後の数字の後にはカンマを入れないでください。"
+
+#~ msgid "Show border around image in post area."
+#~ msgstr "投稿欄の画像に枠線を付ける。"
+
+#~ msgid "Post meta type."
+#~ msgstr "投稿記事の下に表示するmetaの種類。"
+
+#~ msgid "Show tag."
+#~ msgstr "タグを表示する。"
+
+#~ msgid "Show time on comment."
+#~ msgstr "コメントに時間を表示する。"
+
+#~ msgid "Check if you want to show Return top link."
+#~ msgstr "右下に「ページ上部へ移動する」を表示する。"
+
+#~ msgid "Google Search"
+#~ msgstr "Google Search"
+
+#~ msgid "Search"
+#~ msgstr "サイト内検索"
+
+#~ msgid "Nuetral Theme Options"
+#~ msgstr "neutral オプション設定"
+
+#~ msgid "Archive for <span id=\"keyword\">%s</span>"
+#~ msgstr "アーカイブ　：　<span id=\"keyword\">%s</span>"
+
+#~ msgid "neutral option"
+#~ msgstr "neutral オプション"

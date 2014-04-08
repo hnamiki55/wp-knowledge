@@ -1,0 +1,1034 @@
+/*
+
+Theme Name: Sagan
+
+Theme URI: http://www.edwardrjenkins.com/themes/sagan/
+
+Author: Edward R. Jenkins
+
+Author URI: http://www.edwardrjenkins.com
+
+Description: A dark, modern theme perfect for bloggers or quirky magazines. Features a theme options panel, the lightweight Orbit slider (optional), two custom menus, a custom home page headline (optional) and a four column post layout for the home page. Sagan is fully responsive to adapt to mobile devices. It's based on the Foundation Grid by Zurb.
+
+Version: 1.9
+
+License: GNU General Public License v2 or later
+
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Tags: dark, threaded-comments, one-column, two-columns, right-sidebar, flexible-width, custom-menu, editor-style, featured-images, full-width-template, sticky-post, theme-options, translation-ready
+
+
+
+Text Domain: sagan
+
+This theme, like WordPress, is licensed under the GPL.
+
+Use it to make something cool, have fun, and share what you've learned with others.
+
+*/
+
+
+
+/* =Notes
+
+
+
+Sagan WordPress Theme, Copyright (C) 2013 Edward R. Jenkins.
+
+This theme was framed with Zurb's Foundation Grid, released under
+
+the MIT license. You can learn more about Zurb and Foundation at http://foundation.zurb.com.
+
+
+
+Credits and major props to Automattic and the Twenty Twelve theme's
+
+handy responsive navigation menu, which is used in this theme, as well as the comment form.
+
+
+
+Thanks to WPTuts for a quick and painless custom logo uploader.
+
+This program is free software: you can redistribute it and/or modify
+
+it under the terms of the GNU General Public License as published by
+
+the Free Software Foundation, either version 3 of the License, or
+
+(at your option) any later version.
+
+
+
+This program is distributed in the hope that it will be useful,
+
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+
+GNU General Public License for more details.
+
+
+
+You should have received a copy of the GNU General Public License
+
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+	
+
+--------------------------------------------------------------
+
+WARNING: (BEFORE YOU MAKE ANY CHANGES)
+
+--------------------------------------------------------------
+
+Please do not edit style.css or any other Theme files or 
+
+Templates directly. Customization will be lost, which will
+
+cause problems during updates. To add custom styles, use a child theme.
+
+-------------------------------------------------------------- */
+
+/* =WordPress Core
+
+-------------------------------------------------------------- */
+
+.alignnone {
+
+	margin: 5px 20px 20px 0;
+
+}
+
+.aligncenter,
+
+div.aligncenter {
+
+	display: block;
+
+	margin: 5px auto 5px auto;
+
+}
+
+.alignright {
+
+	float:right;
+
+	margin: 5px 0 20px 20px;
+
+}
+
+.alignleft {
+
+	float: left;
+
+	margin: 5px 20px 20px 0;
+
+}
+
+.aligncenter {
+
+	display: block;
+
+	margin: 5px auto 5px auto;
+
+}
+
+a img.alignright {
+
+	float: right;
+
+	margin: 5px 0 20px 20px;
+
+}
+
+a img.alignnone {
+
+	margin: 5px 20px 20px 0;
+
+}
+
+a img.alignleft {
+
+	float: left;
+
+	margin: 5px 20px 20px 0;
+
+}
+
+a img.aligncenter {
+
+	display: block;
+
+	margin-left: auto;
+
+	margin-right: auto
+
+}
+
+.wp-caption {
+
+	background: #fff;
+
+	border: 1px solid #f0f0f0;
+
+	max-width: 96%; /* Image does not overflow the content area */
+
+	padding: 5px 3px 10px;
+
+	text-align: center;
+
+	color: #000000;
+
+}
+
+.wp-caption.alignnone {
+
+	margin: 5px 20px 20px 0;
+
+}
+
+.wp-caption.alignleft {
+
+	margin: 5px 20px 20px 0;
+
+}
+
+.wp-caption.alignright {
+
+	margin: 5px 0 20px 20px;
+
+}
+
+.wp-caption img {
+
+	border: 0 none;
+
+	height: auto;
+
+	margin: 0;
+
+	max-width: 98.5%;
+
+	padding: 0;
+
+	width: auto;
+
+}
+
+.wp-caption p.wp-caption-text {
+
+	font-size: 13px;
+
+	line-height: 17px;
+
+	margin: 0;
+
+	padding: 0 4px 5px;
+
+	color: black;
+
+}
+
+.sticky {
+
+}
+
+.bypostauthor {
+
+}
+
+.gallery-caption {
+
+}
+
+/*
+
+Text Elements =============== */
+
+h1, h2, h3, h4, h5, h6 {
+
+font-family: 'Ubuntu Condensed', serif;
+
+color: #f5f5f5;
+
+-ms-word-wrap: break-word;
+
+word-wrap: break-word;
+
+}
+
+body {
+
+color: #f5f5f5;
+
+font-family: "Ubuntu Condensed";
+
+background: #7d7e7d; /* Old browsers */
+
+background: -moz-radial-gradient(center, ellipse cover, #7d7e7d 0%, #0e0e0e 100%); /* FF3.6+ */
+
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#7d7e7d), color-stop(100%,#0e0e0e)); /* Chrome,Safari4+ */
+
+background: -webkit-radial-gradient(center, ellipse cover, #7d7e7d 0%,#0e0e0e 100%); /* Chrome10+,Safari5.1+ */
+
+background: -o-radial-gradient(center, ellipse cover, #7d7e7d 0%,#0e0e0e 100%); /* Opera 12+ */
+
+background: -ms-radial-gradient(center, ellipse cover, #7d7e7d 0%,#0e0e0e 100%); /* IE10+ */
+
+background: radial-gradient(ellipse at center, #7d7e7d 0%,#0e0e0e 100%); /* W3C */
+
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7d7e7d', endColorstr='#0e0e0e',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+}
+
+/*
+
+Foundation Overrides ============ */
+
+.orbit-wrapper .orbit-caption {
+	font-size: 45px;
+	padding-left: 20px;
+	margin-bottom: 24%;
+}
+
+.orbit {
+	margin-bottom: 15px;
+	margin-top: 10px;
+}
+
+.orbit-caption a {
+	color: #fff;
+}
+
+small {
+
+	font-size: 0.80em;
+
+}
+
+.panel {
+
+	background: none;
+
+}
+
+.fixed {
+
+	position: relative;
+
+}
+
+ul {
+
+	list-style-position: inside;
+
+}
+
+ul.commentlist {
+
+	list-style-type: none;
+
+}
+
+#comments article.comment {
+
+	border: 1px solid #eee;
+
+	padding: 10px;
+
+	margin: 10px;
+
+}
+
+.children {
+
+	list-style: none outside none;
+
+}
+
+cite.fn {
+
+	
+
+	display: block;
+
+}
+
+p {
+
+	margin-bottom: 18px;
+
+	-ms-word-wrap: break-word;
+
+	word-wrap: break-word;
+
+}
+
+.container {
+
+	background: #111;
+
+	padding: 10px;
+
+	opacity: 0.9;
+
+}
+
+code {
+
+	background: #333;
+
+}
+
+pre {
+
+	overflow: auto;
+
+}
+
+kbd {
+
+	background: none;
+
+}
+
+tr {
+
+	color: #000000;
+
+}
+
+dt {
+
+    font-weight: bold;
+
+    text-decoration: underline;
+
+}
+
+dd {
+
+    margin: 0;
+
+    padding: 0 0 0.5em 0;
+
+}
+
+acrononym {
+
+	color: #ffffff;
+
+}
+
+/*
+
+Post Navigation ================ */
+
+#post-nav {
+
+	font-size: 1.3em;
+
+	font-weight: bold;
+
+	text-align: right;
+
+	margin-bottom: 10px;
+
+}
+
+/*
+
+Templates ====================== */
+
+.single-article {
+
+}
+
+.singlethumb {
+
+	float:right;
+
+	margin: 10px;
+
+}
+
+.byline {
+
+	margin: 0 0 20px 0;
+
+}
+
+.postinfo {
+
+	font-weight: bold;
+
+}
+
+.page-links {
+
+}
+
+.post-content {
+
+}
+
+.post-footer {
+
+}
+
+.tag-links {
+
+	font-weight: bold;
+
+	margin: 0 0 20px 0;
+
+}
+
+.article-nav {
+
+	font-size: 1.3em;
+
+	font-weight: bold;
+
+	text-align: center;
+
+	-ms-word-wrap: break-word;
+
+	word-wrap: break-word;
+
+}
+
+.404-image {
+
+	margin: 20px;
+
+}
+
+/* Sidebar and Widgets */
+
+#secondary {
+
+	margin-top: 10px;
+
+}
+
+#secondary ul {
+
+	
+
+	word-wrap: break-word;
+
+}
+
+h4.belowposts {
+
+	text-align: center;
+
+}
+
+.bottom-widget {
+
+	text-align: center;
+
+}
+
+/* Home Page */
+
+.home-widget-area ul {
+	list-style-type: none;
+}
+
+.readmore {
+
+	display: block;
+
+	margin: 20px 0 20px 0;
+
+}
+
+.homethumb {
+
+	min-height: 210px;
+
+	max-height: 210px;
+
+}
+
+#home-headline {
+
+	text-align: center;
+
+}
+
+/* Misc */
+
+input[type="submit"] {
+
+width: auto;
+
+background: #81a594!important;
+
+border: 1px solid #5b7f6e;
+
+-webkit-box-shadow: 0 1px 0 rgba(255,255,255,0.5) inset;
+
+-moz-box-shadow: 0 1px 0 rgba(255,255,255,0.5) inset;
+
+box-shadow: 0 1px 0 rgba(255,255,255,0.5) inset;
+
+color: #fff;
+
+cursor: pointer;
+
+display: inline-block;
+
+font-family: inherit;
+
+font-size: 18px;
+
+line-height: 1;
+
+margin: 0;
+
+padding: 10px 20px 11px;
+
+position: relative;
+
+text-align: center;
+
+text-decoration: none;
+
+-webkit-transition: background-color 0.15s ease-in-out;
+
+-moz-transition: background-color 0.15s ease-in-out;
+
+-o-transition: background-color 0.15s ease-in-out;
+
+transition: background-color 0.15s ease-in-out;
+
+}
+
+textarea {
+
+	font-size: 1em;
+
+}
+
+#featured {
+
+   height: 400px;
+
+}
+
+#featured div {
+
+	display: none;
+
+}
+
+#colophon {
+
+	margin-top: 17px;
+
+}
+
+/* Navigation */
+
+/* =Menus
+
+-------------------------------------------------------------- */
+
+/* Assistive text */
+
+.assistive-text,
+
+.site .screen-reader-text {
+
+	position: absolute !important;
+
+	clip: rect(1px, 1px, 1px, 1px);
+
+}
+
+.main-navigation .assistive-text:hover,
+
+.main-navigation .assistive-text:active,
+
+.main-navigation .assistive-text:focus {
+
+	background: #fff;
+
+	border: 2px solid #333;
+
+	border-radius: 3px;
+
+	clip: auto !important;
+
+	color: #000;
+
+	display: block;
+
+	font-size: 12px;
+
+	padding: 12px;
+
+	position: absolute;
+
+	top: 5px;
+
+	left: 5px;
+
+	z-index: 100000; /* Above WP toolbar */
+
+}
+
+/* Navigation Menu */
+
+.main-navigation {
+
+	margin-top: 22px;
+
+	margin-top: 1.714285714rem;
+
+	text-align: center;
+
+	padding-bottom: 20px;
+
+}
+
+.main-navigation li {
+
+	margin-top: 24px;
+
+	margin-top: 1.714285714rem;
+
+	font-size: 12px;
+
+	font-size: 0.857142857rem;
+
+	line-height: 1.42857143;
+
+	font-size: 0.85em;
+
+	list-style-type: none;
+
+}
+
+.main-navigation a {
+
+	color: #5e5e5e;
+
+}
+
+.main-navigation a:hover {
+
+	color: #21759b;
+
+}
+
+.main-navigation ul.nav-menu,
+
+.main-navigation div.nav-menu > ul {
+
+	display: none;
+
+}
+
+.main-navigation ul.nav-menu.toggled-on,
+
+.menu-toggle {
+
+	display: inline-block;
+
+}
+
+.main-navigation li ul li {
+
+	display: none;
+
+}
+
+/* =Footer Menu
+
+--------------------------------------------------------------*/
+
+#footermenu {
+
+	margin: 10px;
+
+	text-align: right;
+
+}
+
+#footermenu ul {
+
+	margin-bottom: 10px;
+
+}
+
+#footermenu ul.sub-menu {
+
+	display: none;
+
+}
+
+#footermenu ul.children {
+
+	display: none;
+
+}
+
+#footermenu li {
+
+	display: inline-block;
+
+	padding: 5px;
+
+	font-size: 0.85em;
+
+}
+
+#footermenu li a {
+
+	color: #729a87;
+
+}
+/* Minimum width of 800 pixels. */
+
+@media screen and (max-width: 800px) {
+
+.orbit-wrapper .orbit-caption {
+	font-size: 22px;
+	padding-left: 20px;
+	margin-bottom: 27%;
+}
+}
+
+/* Minimum width of 1000 pixels. */
+
+@media screen and (min-width: 1000px) {
+
+#secondary {
+
+	margin-top: 38%;
+
+}
+
+p.featured-home-excerpt {
+
+	min-height: 175px;
+
+}
+
+}
+
+/* Minimum width of 600 pixels. */
+
+@media screen and (min-width: 600px) {
+
+.main-navigation ul.nav-menu,
+
+	.main-navigation div.nav-menu > ul {
+
+		display: inline-block !important;
+
+		text-align: right;
+
+		width: 100%;
+
+	}
+
+	.main-navigation ul {
+
+		margin: 0;
+
+		text-indent: 0;
+
+	}
+
+	.main-navigation li a,
+
+	.main-navigation li {
+
+		display: inline-block;
+
+		text-decoration: none;
+
+	}
+
+	.main-navigation li a {
+
+		border-bottom: 0;
+
+		color: #6a6a6a;
+
+		line-height: 3.692307692;
+
+		white-space: nowrap;
+
+	}
+
+	.main-navigation li a:hover {
+
+		color: #f5f5f5;
+
+	}
+
+	.main-navigation li {
+
+		margin: 0 20px 0 0;
+
+		position: relative;
+
+	}
+
+	.main-navigation li ul {
+
+		display: none;
+
+		margin: 0;
+
+		padding: 0;
+
+		position: absolute;
+
+		top: 100%;
+
+		z-index: 1;
+
+	}
+
+	.main-navigation li ul ul {
+
+		top: 0;
+
+		left: 100%;
+
+	}
+
+	.main-navigation ul li:hover > ul {
+
+		border-left: 0;
+
+		display: block;
+
+	}
+
+	.main-navigation li ul li a {
+
+		background: #fff;
+
+		display: block;
+
+		font-size: 0.9em;
+
+		line-height: 1.181818182;
+
+		padding: 8px 10px;
+
+	}
+
+	.main-navigation li ul li a:hover {
+
+		background: #ededed;
+
+		color: #444;
+
+	}
+
+.main-navigation li ul li {
+
+	display: block;
+
+}
+
+.menu-toggle {
+
+	display: none!important;
+
+}
+
+}
+
+/* Buttons */
+
+.menu-toggle {
+
+	padding: 6px 10px;
+
+	font-size: 1.2em;
+
+	line-height: 1.428571429;
+
+	font-weight: normal;
+
+	color: #7c7c7c;
+
+	background-color: #e6e6e6;
+
+	background-repeat: repeat-x;
+
+	background-image: -moz-linear-gradient(top, #f4f4f4, #e6e6e6);
+
+	background-image: -ms-linear-gradient(top, #f4f4f4, #e6e6e6);
+
+	background-image: -webkit-linear-gradient(top, #f4f4f4, #e6e6e6);
+
+	background-image: -o-linear-gradient(top, #f4f4f4, #e6e6e6);
+
+	background-image: linear-gradient(top, #f4f4f4, #e6e6e6);
+
+	border: 1px solid #d2d2d2;
+
+	border-radius: 3px;
+
+	box-shadow: 0 1px 2px rgba(64, 64, 64, 0.1);
+
+}
+
+.menu-toggle:hover {
+
+	color: #5e5e5e;
+
+	background-color: #ebebeb;
+
+	background-repeat: repeat-x;
+
+	background-image: -moz-linear-gradient(top, #f9f9f9, #ebebeb);
+
+	background-image: -ms-linear-gradient(top, #f9f9f9, #ebebeb);
+
+	background-image: -webkit-linear-gradient(top, #f9f9f9, #ebebeb);
+
+	background-image: -o-linear-gradient(top, #f9f9f9, #ebebeb);
+
+	background-image: linear-gradient(top, #f9f9f9, #ebebeb);
+
+}
+
+.menu-toggle:active,
+
+.menu-toggle.toggled-on {
+
+	color: #757575;
+
+	background-color: #e1e1e1;
+
+	background-repeat: repeat-x;
+
+	background-image: -moz-linear-gradient(top, #ebebeb, #e1e1e1);
+
+	background-image: -ms-linear-gradient(top, #ebebeb, #e1e1e1);
+
+	background-image: -webkit-linear-gradient(top, #ebebeb, #e1e1e1);
+
+	background-image: -o-linear-gradient(top, #ebebeb, #e1e1e1);
+
+	background-image: linear-gradient(top, #ebebeb, #e1e1e1);
+
+	box-shadow: inset 0 0 8px 2px #c6c6c6, 0 1px 0 0 #f4f4f4;
+
+	border: none;
+
+}

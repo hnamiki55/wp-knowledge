@@ -1,0 +1,203 @@
+Business Lite 4 Changelog
+
+****************************
+
+Version 4.0.43 (3-27-14)
+- Updated Elements Translation.
+
+Version 4.0.42 (3-21-14)
+- Updated support forum URL.
+- Fixed IE8 compatibility issue.
+
+Version 4.0.41 (3-12-14)
+- Fixed duplicate plugin install notification in option page.
+- Modified "More Themes" page to show up all CyberChimps free theme with option to install/activate right there.
+
+Version 4.0.40 (3-5-14)
+- Fixed conflict between blog post excerpt option and bbpress user profile page.
+- Set up element options defaults for better wp.org preview.
+
+Version 4.0.39 (2-27-14)
+- Slider fix to start on page load.
+- Updated elements images along with boxes images.
+- Fixed Read more text option.
+- Responsive toggle fix: tweaked full-width-container width.
+- Background option fix.
+- Removed post format icon from page.
+
+Version 4.0.38 (2-18-14)
+- Slider is made to be start sliding on page load.
+
+Version 4.0.37 (2-11-14)
+- Updated Translation.
+
+Version 4.0.36 (2-5-14)
+- Fixed multiple thumbnails issue on image attachment page.
+- Fixed image load issue for boxes element.
+- Upsell page tweaked(Font & Text).
+
+Version 4.0.35 (1-27-14)
+- Boxes: Added latest default images and retina versions.
+- Added Danish translation to core.
+- Added hook to set blog layout option default.
+
+Version 4.0.34 (1-21-14)
+- Email icon made not to open a new tab.
+- Removed Twitter bar from default option
+
+Version 4.0.33 (1-14-14)
+- Changed blog layout option text.
+- Fixed upload button not working issue with child themes.
+
+Version 4.0.32 (1-6-14)
+- Modified Helvetica font-family.
+- Removed translation of a variable.
+
+Version 4.0.31 (12-23-13)
+- Fixed drag and drop font icons on page options.
+- Added metabox field type unfiltered_textarea.
+- Changed underscrore to hyphen in class for portfolio lite element.
+
+Version 4.0.30 (12-16-13)
+- Email and google map icon issue fixed.
+- Social icon issue in IE fixed.
+- Added larger screenshot for WP3.8.
+- Update tags for WP3.8.
+- Updated license.
+
+
+Version 4.0.29 (12-12-13)
+- Fixed social icon links.
+- Fixed metabox toggle option.
+
+Version 4.0.28 (12-11-13)
+- Added Font-Based Social Icons.
+- Integrated Font Awesome (Bootstrap font).
+- Added retina ready images and style for it.
+- Changed the way of metabox css/js getting enqueued to support child theme.
+
+Version 4.0.27 (12-04-13)
+- Image size fix: Hooked add_image_size to after_setup_theme.
+- Deleted unused images.
+- Added TGM class to recommend responsive Add Ons.
+- Removed Google Analytics option (requested by WordPress).
+- Removed theme redirection (requested by WordPress).
+
+Version 4.0.26 (11-15-13)
+- Added new background image option.
+- Removed color from article to get the customizer text color option work.
+
+Version 4.0.25 (11-8-13)
+- Translation domain fix.
+- Sanitization added to few metabox option types.
+- Js minification in core.
+
+Version 4.0.24 (11-7-13)
+- Removed unused code
+
+Version 4.0.23 (11-1-13)
+- Added new metabox class.
+
+Version 4.0.22 (10-30-13)
+- Slider lite ID separator change from (-) to(_). Changed affected JS and CSS.
+- Theme License update to GPL v3.0
+- Updated Font licenses
+
+Version 4.0.21 (10-18-13)
+- Container width fix.
+- Added class cc-responsive if responisve design is on.
+
+Version 4.0.20 (10-11-13)
+- Changed ID name separator to (_) from (-) for elements/boxes.php
+
+Version 4.0.19 (10-4-13)
+- Minified JS.
+- Reformatted code( Replaced spaces with tabs ).
+
+Version 4.0.18 (9-27-13)
+- Upsell page: If the listed theme is installed then add a tick mark next to it.
+
+Version 4.0.17 (9-20-13)
+- Slider option from post is removed as it was not part of free themes.
+- Fixed google font issue.
+
+Version 4.0.16 (9-13-13)
+- Updated README file.
+
+Version 4.0.15 (9-6-13)
+- Minified multi media upload.
+- Meta box fix - changed save_post hook to pre_post_update.
+
+Version 4.0.14 (8-30-13)
+- Removed new meta-box options due to unresolved bug that affected some users.
+
+Version 4.0.13 (8-23-13)
+- Social icons reordering.
+- Upsell page update: Updated screenshot and info of Neuro Pro.
+- Added new class for metabox options.
+
+Version 4.0.12 (8-16-13)
+- Fixed heading typography.
+- Footer copyright - allow all html through.
+- Added custom css option to customizer.
+- IE8 fix: added one missing closing tag </div>
+
+Version 4.0.11 (8-9-13)
+- Removed duplicated customizer menu for WPv3.6.
+- Fixed standard violation notices regarding Walker class for WPv3.6.
+- Added functionality to allow HTML Footer Copyright Text option.
+- Updated URLs to theme's help, guides, forum page etc.
+
+Version 4.0.10 (8-2-13)
+- Fixed site width issue.
+- Half slider order tweak.
+
+Version 4.0.9 (7-26-13)
+- Added upsell page listing all CyberChimps themes.
+- Added one click plugin instalation support for "Easy Digital Download".
+- Added polish language support.
+
+Version 4.0.8 (7-19-13)
+- Swapped position of buttons "Save Option" and "Restore Defaults" so that when you are in an input field, on press of "Enter" it saves the options.
+- Added default text for boxes element.
+- New HTML structure for password protected page/post.
+- Typography improvement: implemented different font family for headings and text, both in theme option and customizer.
+
+Version 4.0.7 (7-11-13)
+- Added filters to widget titles.
+- Woocommerce - removed max-width.
+- Changed where the skin css gets added in the head.
+
+Version 4.0.6 (7-4-13)
+-Removed twitter element.
+-Updated default images and icons.
+-Updated translation.
+-Added option to add title to blog page.
+-Updated carousel plugin.
+-Fixed YouTube video responsive issue.
+-Fixed page title option.
+
+Version 4.0.5 (6-27-13)
+-Updated twitter API to v1.1
+
+Version 4.0.4 (6-21-13)
+-Replaced headlines tags from h2 to h1 at required places.
+-Adjusted header margin.
+-Made secondary menu div visible only when a secondary menu is selected.
+
+Version 4.0.3 (6-13-13)
+-Removed the unused global variable from boxes.php.
+
+Version 4.0.2 (6-10-13)
+-Made the content of the viewport in meta tag comma separated. 
+
+Version 4.0.1 (6-6-13)
+-Updated meta in pot file.
+-Added updated class to the time tag in cyberchimps_posted_on() function.
+-Fixed custom css sanitization at php and js levels.
+-Updated woocommerce styling.
+-Improved comments schema for microformats.
+
+Version 4.0.0 (5-30-13)
+
+-Initial release.

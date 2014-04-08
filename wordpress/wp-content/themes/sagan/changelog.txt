@@ -1,0 +1,16 @@
+== Sagan Changlog ==
+=2/19/2013=
+- Initial release.
+=6/9/2013=
+- Fixed rel no_follow issue
+- Fixed empty translation strings
+- Modified comment styling
+- Modified paginated index view
+=7/3/2013=
+-Fixed copyright issues.
+-Misc. styling issues
+=7/13/2013=
+-Fixed image nav.
+-Misc. fixes
+=7/25/2013=
+-Fixed theme options panel sanitization.=10/11/2013=- Removed home page four post layout. Replaced with four widget areas.- Added caption option to the Orbit slider settings page.

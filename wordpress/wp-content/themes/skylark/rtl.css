@@ -1,0 +1,330 @@
+/*
+Theme Name: Skylark
+
+Adding support for language written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+http://codex.wordpress.org/Right_to_Left_Language_Support
+*/
+
+/* =Reset
+-------------------------------------------------------------- */
+
+caption, th, td {
+	text-align: right;
+}
+
+
+/* =Global
+----------------------------------------------- */
+
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+/* Text elements */
+ul, ol {
+	margin: 0 3em 1.313em 0;
+}
+ul ul, ol ol, ul ol, ol ul {
+	margin-right: 1.313em;
+	margin-left: auto;
+}
+button,
+html input[type="button"],
+input[type="reset"],
+input[type="submit"] {
+	background: -webkit-gradient(linear, right top, right bottom, color-stop(60%,#589fe6), color-stop(100%,#468cd4));
+}
+#searchform input#s {
+	background: url("images/search.png") left center no-repeat #fafafa;
+	padding: 0.2em 0.6em 0.2em 2.3em;
+}
+input[type=text],
+input[type=email],
+textarea {
+	background: -webkit-gradient(linear, right top, right 25, from(#fff), color-stop(4%, #eee), to(#fff));
+}
+textarea {
+	padding: 5px 5px 0 0;
+}
+
+
+/* Alignment */
+.alignright {
+	float: right;
+	margin-left: 1.313em;
+	margin-right: auto;
+}
+.alignleft {
+	float: left;
+	margin-right: 1.313em;
+	margin-left: auto;
+}
+
+
+/* =Layout
+----------------------------------------------- */
+
+.site-content {
+	float: right;
+	margin-left: 1.41304348%;
+	margin-right: auto;
+}
+#secondary {
+	float: left;
+}
+
+/* =Site Header and Main Navigation
+----------------------------------------------- */
+
+/* Site Branding */
+.site-header hgroup {
+	float: right;
+	margin: 1.5em 0 1.5em 2.06521739%;
+}
+
+/* Main Navigation */
+.main-navigation {
+	float: left;
+}
+.main-navigation ul {
+	padding-right: 0;
+	padding-left: 0;
+}
+.main-navigation li {
+	float: right;
+	margin: 0 1.538em 0 0;
+}
+.main-navigation ul ul {
+	float: right;
+	right: 0;
+	left: auto;
+}
+.main-navigation ul ul ul {
+	right: -113%;
+	left: auto;
+}
+
+
+/* =Content
+----------------------------------------------- */
+
+.page-links a {
+	background: -webkit-gradient(linear, right top, right bottom, from(#589fe6), to(#468cd4));
+}
+.entry-content table,
+.comment-content table {
+	margin: 0 0 1.923em 0.077em;
+	text-align: right;
+}
+
+
+/* =Featured Content
+----------------------------------------------- */
+
+.featured-wrapper {
+	background: -webkit-gradient(linear, right top, right bottom, from(#478ed7), to(#1d5ea0));
+}
+.featured-thumbnail {
+	float: right;
+	margin-left: 2.06521739%;
+	margin-right: auto;
+}
+.featured-post-content {
+	float: left;
+}
+#slider-prev {
+	background: url('images/next.png') no-repeat;
+	right: 0;
+	left: auto;
+}
+#slider-next {
+	background: url('images/prev.png') no-repeat;
+	left: 0;
+	right: auto;
+}
+
+/* Featured Slider Entry Content */
+.featured-post-content .more-link {
+	background: -webkit-gradient(linear, right top, right bottom, from(#589fe6), to(#468cd4));
+}
+
+/* =Showcase Template
+----------------------------------------------- */
+
+/* Featured Categories */
+#category-highlight .category-section .hentry {
+	float: right;
+	margin-left: 2.2826087%;
+	margin-right: auto;
+}
+#category-highlight .category-section .hentry:last-of-type {
+	margin-left: 0;
+	margin-right: auto;
+}
+
+/* =Portfolio Template
+----------------------------------------------- */
+
+.portfolio .hentry {
+	float: right;
+	margin-left: 4.2826087%;
+	margin-right: auto;
+}
+.portfolio .hentry:last-of-type {
+	margin-left: 0;
+	margin-right: auto;
+}
+
+/* =Media
+----------------------------------------------- */
+
+/* Overlay icons on top of featured images for image, gallery, and video post formats */
+.feature-thumbnail .post-format-icon {
+	margin-right: -35px;
+	right: 50%;
+	left: auto;
+	margin-left: auto;
+}
+
+/* =Navigation
+----------------------------------------------- */
+
+#content .nav-previous,
+#content .previous-image {
+	float: right;
+}
+#content .nav-next,
+#content .next-image {
+	float: left;
+	text-align: left;
+}
+#content .next-image {
+	text-align: right;
+}
+#content .previous-image {
+	text-align: left;
+}
+#content .nav-next a,
+#content .next-image a,
+#content .nav-previous a,
+#content .previous-image a {
+	background: -webkit-gradient(linear, right top, right bottom, from(#589fe6), to(#468cd4));
+}
+#content .next-image a,
+#content .previous-image a {
+	margin-right: 1em;
+	margin-left: 1em;
+}
+/* Comment Navigation */
+#content .comment-navigation .nav-next a,
+#content .comment-navigation .nav-previous a {
+	text-align: right;
+}
+
+/* =Comments
+----------------------------------------------- */
+
+.children {
+	margin: 0 6% 0 0;
+}
+.full-width .children {
+	margin: 0 4% 0 0;
+}
+.comment-author .avatar {
+	left: 0;
+	right: auto;
+}
+a.comment-reply-link {
+	background: -webkit-gradient(linear, right top, right bottom, from(#589fe6), to(#468cd4));
+}
+#cancel-comment-reply-link {
+	float: left;
+	margin-right: 1.5em;
+	text-align: left;
+	margin-left: auto;
+}
+
+/* Comments Form */
+#respond .comment-form-author input[type="text"], 
+#respond .comment-form-email input[type="text"] {
+	margin-right: 1.25em;
+	margin-left: auto;
+}
+#respond .comment-form-url input[type="text"] {
+	margin-right: 1em;
+	margin-left: auto;
+}
+
+
+/* =Widgets
+----------------------------------------------- */
+
+.widget {
+	padding-right: 1.313em;
+	padding-left: 0;
+}
+.widget ul li {
+	background-position: right 12px;
+	padding: 0.5em 1.2em 0.5em 0.5em;
+}
+
+/* Menu & Categories Widgets (With Sub-Items) */
+.widget-area .sub-menu,
+.widget-area .children {
+	margin-right:  1.5em;
+	margin-left: auto;
+}
+
+/* Authors Widget */
+.widget_authors img {
+	float: right;
+	padding-left: 0.833em;
+	padding-right: 0;
+}
+
+/* Calendar Widget */
+#wp-calendar tfoot #next {
+	text-align: left;
+}
+
+/* Recent Comments Widget */
+.widget_recent_comments td.recentcommentstexttop,
+.widget_recent_comments td.recentcommentstextend {
+	padding: 0 !important 1.1em 0.615em;
+}
+
+
+/* =Responsive Structure
+----------------------------------------------- */
+@media only screen and (max-width: 1060px) {
+	.featured-nav-wrapper {
+		text-align: left;
+	}
+	#featured-content {
+		text-align: right;
+	}
+	.featured-post-content .post-title {
+		margin-left: 25.5%;
+	}
+}
+@media only screen and (max-width: 768px) {
+	#category-highlight .feature-thumbnail,
+	.portfolio .feature-thumbnail {
+		float: right;
+	}
+	#category-highlight .feature-thumbnail {
+		margin: 0 0 0 4%;
+	}
+	.portfolio .feature-thumbnail {
+		margin: 0 0 0 3%;
+	}
+}
+@media only screen and (max-width: 611px) {
+	.site-header hgroup {
+	    margin-left: 0;
+	}		
+}

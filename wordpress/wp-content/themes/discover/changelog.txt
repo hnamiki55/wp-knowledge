@@ -1,0 +1,76 @@
+*** discover Changelog ***
+
+17-02-2014 - version 1.7.19
+*if ( function_exists( 'wp_get_theme' ) ) { - removed
+*if ( ! function_exists( 'get_custom_header' ) ) { - removed
+
+15-02-2014 - version 1.7.18
+* Made compatible with woocommerce version 2.1
+
+31-12-2013 - version 1.7.17
+*Redirect to theme options upon activation removed
+
+17-12-2013 - version 1.7.16
+*template-left-sidebar.php added
+
+26-11-2013 - version 1.7.15
+*header.php file modified to allow larger width logos:
+Line 30 changed from three columns to twelve and nine columns removed from line 45
+
+08-10-2013 - version 1.7.14
+* template-home.php file modified to fix bug, download now button not getting off when kept off in theme options.
+
+17-09-2013 - version 1.7.13
+Below css added in style.css to control slider, headline and text color.
+#slider_container h1{color: #000;}
+#slider_container p{color: #000;}
+
+3-09-2013 - version 1.7.12
+* discover_posted_on function changed in functions.php, the bug caused blank screen in editor.
+* line 217 bug fixed in functions.php - Strict Standards: Only variables should be passed by reference in
+
+30-08-2013 - version 1.7.11
+* 404.php file added.
+
+19-08-2013 - version 1.7.9
+* Remove function_exists() conditional wrapper from has_post_thumbnail() from loop.php and template-blog.php file.
+
+14-08-2013 - version 1.7.8
+* Option added in theme options panel to on/off slider button(download now)
+* css changes added in style.css for pre, buttons, post, sticky
+* style added for featured image and lopp.php and template-blog.php updated with additional div.
+
+10-08-2013 - version 1.7.7
+* wpml-config.xml file added to make them compatible with WPML plugin.
+
+07-08-2013 - version 1.7.6
+* Favicon settings added in theme options panel.
+
+26-07-2013 - version 1.7.5
+* Support for woocommerce plugin added. Folder woocommerce and css added in style.css file.
+
+2-07-2013 - version 1.7.4
+Translations added below:
+* template-blog.php: line 67
+* loop.php: line 23, line 32, line 41
+
+12-06-2013 - version 1.7.3
+* <div class="clear"></div> in element-box.php
+* Unwanted code removed from js/jquery.custom.js file
+* Menu drop down made faster
+* Option added in theme options panel to on/off slider caption
+
+27-05-2013 - version 1.7.2
+* template-home page added. (Read readme.txt file for more)
+
+24-05-2013 - version 1.7
+* License file updated
+* Blog posts shown on home by default.
+
+23-05-2013 - version 1.6
+* Box images not shown in IE(Internet explorer) Fixed.
+* New settings color and custom style added in theme options.
+
+10-05-2013 - version 1.5
+* Warning: Cannot modify header information - headers already sent by fixed.
+* esc_url added on line 53 in template-blog.php

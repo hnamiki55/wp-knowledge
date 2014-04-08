@@ -1,0 +1,437 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Newschannel\n"
+"POT-Creation-Date: 2013-01-17 16:12+0800\n"
+"PO-Revision-Date: 2013-01-17 16:13+0800\n"
+"Last-Translator: ed cardinal <lizardking67@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress\\wp-content\\themes"
+"\\newschannel\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/404.php:9
+msgid "Error 404 - Page Not Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/404.php:13
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching, or one of the links below, can help."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/404.php:21
+msgid "Most Used Categories"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/404.php:29
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/archive.php:13
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/archive.php:15
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/archive.php:17
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/archive.php:19
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:98
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/sidebar.php:12
+msgid "Archives"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/archive.php:34
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/author.php:39
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/category.php:30
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/index.php:16
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/search.php:24
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/tag.php:31
+msgid "View Post"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/archive.php:61
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/author.php:66
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/category.php:57
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/index.php:43
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/search.php:51
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/tag.php:58
+#, php-format
+msgid ""
+"<a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class=\"entry-date\" "
+"datetime=\"%3$s\">%4$s</time></a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/archive.php:85
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/author.php:90
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/category.php:81
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/index.php:67
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/search.php:75
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/tag.php:82
+msgid "Nothing Found"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/archive.php:89
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/author.php:94
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/category.php:85
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/index.php:71
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/tag.php:86
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/author.php:20
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/category.php:11
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/comments.php:8
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/comments.php:39
+msgid "Comment navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/comments.php:40
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/comments.php:51
+msgid "Comments are closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-aside.php:13
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-gallery.php:21
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-image.php:8
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content.php:24
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-aside.php:14
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-gallery.php:43
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-image.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-page.php:9
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-single.php:24
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content.php:25
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/image.php:78
+msgid "Pages:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-aside.php:22
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-gallery.php:73
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-image.php:16
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content.php:55
+msgid "Leave a comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-aside.php:22
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-gallery.php:73
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-image.php:16
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content.php:55
+msgid "1 Comment"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-aside.php:22
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-gallery.php:73
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-image.php:16
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content.php:55
+msgid "% Comments"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-aside.php:24
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-gallery.php:77
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-image.php:18
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-page.php:11
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-single.php:62
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content.php:59
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/image.php:26
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/image.php:92
+msgid "Edit"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-gallery.php:51
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-gallery.php:62
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-single.php:30
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content.php:33
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content.php:44
+msgid ", "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-gallery.php:55
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content.php:37
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-gallery.php:66
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content.php:48
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-single.php:6
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-single.php:7
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-single.php:8
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:256
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-single.php:13
+#, php-format
+msgid ""
+"Posted by <span class=\"author vcard\"><a class=\"url fn n\" href=\"%1$s\" "
+"title=\"%2$s\" rel=\"author\">%3$s</a></span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-single.php:15
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:300
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-single.php:38
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink "
+"to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-single.php:40
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-single.php:46
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/content-single.php:48
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/footer.php:4
+msgid "&copy; "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/footer.php:6
+msgid "- Powered by "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/footer.php:6
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/footer.php:6
+msgid "Wordpress"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/footer.php:7
+msgid " and "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/footer.php:7
+msgid "http://wpthemes.co.nz/"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/footer.php:7
+msgid "WP Themes"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:33
+msgid "Primary Menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:95
+msgid "Category"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:96
+msgid "Tag"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:97
+msgid "Author"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:103
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:107
+msgid "Page "
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:180
+msgid "Sidebar Right"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:189
+msgid "Sidebar Footer"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:209
+msgid "Post navigation"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:219
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:223
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:245
+msgid "Pingback:"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:245
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:262
+msgid "(Edit)"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:260
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:272
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:294
+#, php-format
+msgid ""
+"<span class=\"sep\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\">%4$s</time></"
+"a><span class=\"byline\"> <span class=\"sep\"> by </span> <span class="
+"\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel="
+"\"author\">%7$s</a></span></span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:390
+#, php-format
+msgid "<div class=\"pagination\"><span>Page %1$s of %2$s</span>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:391
+#, php-format
+msgid "<a href=\"%1$s\">&laquo; First</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:392
+#, php-format
+msgid "<a href=\"%1$s\">&lsaquo; Previous</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:402
+#, php-format
+msgid "<a href=\"%1$s\">Next &rsaquo;</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/functions.php:403
+#, php-format
+msgid "<a href=\"%1$s\">Last &raquo;</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/header.php:30
+msgid "Main menu"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/header.php:31
+msgid "Skip to content"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/image.php:16
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><abbr class=\"published\" title=\"%1$s"
+"\">%2$s</abbr></span> at <a href=\"%3$s\" title=\"Link to full-size image\">"
+"%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" rel="
+"\"gallery\">%7$s</a>"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/image.php:30
+msgid "&larr; Previous"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/image.php:31
+msgid "Next &rarr;"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/image.php:84
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/image.php:86
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/image.php:88
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/image.php:90
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/search.php:14
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/search.php:79
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/sidebar.php:19
+msgid "Meta"
+msgstr ""
+
+#: C:\xampp\htdocs\wordpress\wp-content\themes\newschannel/tag.php:11
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""

@@ -1,0 +1,788 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Korean by Soul\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-13 20:56+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jong-In Kim <soulofpure@naver.com>\n"
+"Language-Team: Jong-In Kim <Jong-In Kim(soulofpure@hotmail.com)>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Korean\n"
+"X-Poedit-Country: KOREA, REPUBLIC OF\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: I:\\xampplite\\htdocs\\neutral\n"
+"X-Poedit-SearchPath-0: wp-content\\themes\\neutral\n"
+
+#: wp-content\themes\neutral/404.php:7
+msgid "Error 404 Not Found."
+msgstr "에러 404 - 찾지 못함."
+
+#: wp-content\themes\neutral/archive.php:10
+#, php-format
+msgid "Archive for the &#8216;<span id=\"keyword\"> %s </span>&#8217; Category"
+msgstr "카테고리 보관: &#8216;<span id=\"keyword\"> %s </span>&#8217;"
+
+#: wp-content\themes\neutral/archive.php:13
+#, php-format
+msgid "Posts Tagged &#8216;<span id=\"keyword\"> %s </span>&#8217;"
+msgstr "태그를 쓴 글: &#8216;<span id=\"keyword\"> %s </span>&#8217;"
+
+#: wp-content\themes\neutral/archive.php:16
+#: wp-content\themes\neutral/archive.php:19
+#: wp-content\themes\neutral/archive.php:22
+#, php-format
+msgid "Archive for &#8216;<span id=\"keyword\"> %s </span>&#8217;"
+msgstr "보관: &#8216;<span id=\"keyword\"> %s </span>&#8217;"
+
+#: wp-content\themes\neutral/archive.php:16
+msgid "F jS, Y"
+msgstr "F j일, Y년"
+
+#: wp-content\themes\neutral/archive.php:19
+msgid "F, Y"
+msgstr "F, Y년"
+
+#: wp-content\themes\neutral/archive.php:22
+msgid "Y"
+msgstr "Y년"
+
+#: wp-content\themes\neutral/archive.php:25
+msgid "Author Archive"
+msgstr "글쓴이 보관"
+
+#: wp-content\themes\neutral/archive.php:28
+msgid "Blog Archives"
+msgstr "블로그 보관"
+
+#: wp-content\themes\neutral/archive.php:38
+#: wp-content\themes\neutral/comments.php:116
+#: wp-content\themes\neutral/functions.php:124
+#: wp-content\themes\neutral/index.php:12
+#: wp-content\themes\neutral/search.php:17
+#: wp-content\themes\neutral/single.php:22
+msgid "M jS. Y"
+msgstr "M jS. Y년"
+
+#: wp-content\themes\neutral/archive.php:39
+#: wp-content\themes\neutral/index.php:13
+#: wp-content\themes\neutral/search.php:18
+#: wp-content\themes\neutral/single.php:25
+msgid "By "
+msgstr ": "
+
+#: wp-content\themes\neutral/archive.php:40
+#: wp-content\themes\neutral/comments.php:117
+#: wp-content\themes\neutral/index.php:14
+#: wp-content\themes\neutral/search.php:19
+#: wp-content\themes\neutral/single.php:27
+msgid "[ EDIT ]"
+msgstr "[ 편집 ]"
+
+#: wp-content\themes\neutral/archive.php:44
+#: wp-content\themes\neutral/index.php:18
+#: wp-content\themes\neutral/page-nocomment.php:16
+#: wp-content\themes\neutral/page-noside-nocomment.php:16
+#: wp-content\themes\neutral/page-noside.php:16
+#: wp-content\themes\neutral/page.php:11
+#: wp-content\themes\neutral/single.php:31
+msgid "Read more"
+msgstr "[ 더보기 ]"
+
+#: wp-content\themes\neutral/archive.php:53
+#: wp-content\themes\neutral/comments.php:39
+#: wp-content\themes\neutral/index.php:27
+#: wp-content\themes\neutral/single.php:26
+msgid "Write comment"
+msgstr "댓글 작성"
+
+#: wp-content\themes\neutral/archive.php:53
+#: wp-content\themes\neutral/index.php:27
+msgid "1 comment"
+msgstr "1개의 댓글"
+
+#: wp-content\themes\neutral/archive.php:53
+#: wp-content\themes\neutral/index.php:27
+#, php-format
+msgid "% comments"
+msgstr "%개의 댓글"
+
+#: wp-content\themes\neutral/archive.php:60
+#: wp-content\themes\neutral/index.php:35
+#: wp-content\themes\neutral/page-nocomment.php:23
+#: wp-content\themes\neutral/page-noside-nocomment.php:23
+#: wp-content\themes\neutral/page-noside.php:23
+#: wp-content\themes\neutral/page.php:18
+#: wp-content\themes\neutral/search.php:27
+#: wp-content\themes\neutral/single.php:39
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "죄송합니다, 여기에 없는 무언가를 찾으려 하시네요."
+
+#: wp-content\themes\neutral/archive.php:68
+#: wp-content\themes\neutral/index.php:44
+#: wp-content\themes\neutral/search.php:36
+msgid "Older posts"
+msgstr "예전 글"
+
+#: wp-content\themes\neutral/archive.php:69
+#: wp-content\themes\neutral/index.php:45
+#: wp-content\themes\neutral/search.php:37
+msgid "Newer posts"
+msgstr "새로운 글"
+
+#: wp-content\themes\neutral/comments.php:10
+#: wp-content\themes\neutral/comments.php:19
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "이 글은 비밀글입니다. 댓글을 보려면 비밀번호를 입력하세요."
+
+#: wp-content\themes\neutral/comments.php:41
+msgid "Comments RSS"
+msgstr "댓글 RSS"
+
+#: wp-content\themes\neutral/comments.php:46
+msgid "Trackback"
+msgstr "트랙백"
+
+#: wp-content\themes\neutral/comments.php:47
+#: wp-content\themes\neutral/comments.php:50
+msgid "Comments"
+msgstr "댓글"
+
+#: wp-content\themes\neutral/comments.php:49
+msgid "Trackback are closed"
+msgstr "트랙백은 닫혔습니다."
+
+#: wp-content\themes\neutral/comments.php:78
+msgid "No comments yet."
+msgstr "댓글이 없습니다."
+
+#: wp-content\themes\neutral/comments.php:105
+msgid "TrackBack URL"
+msgstr "트랙백 URL"
+
+#: wp-content\themes\neutral/comments.php:120
+msgid "Trackback from : "
+msgstr "트랙백 : "
+
+#: wp-content\themes\neutral/comments.php:126
+msgid "No trackbacks yet."
+msgstr "트랙백이 없습니다."
+
+#: wp-content\themes\neutral/comments.php:141
+msgid "Comment are closed."
+msgstr "댓글은 닫혔습니다."
+
+#: wp-content\themes\neutral/comments.php:156
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "댓글을 달기 위해서는 <a href=\"%s\">로그인</a> 해야 합니다."
+
+#: wp-content\themes\neutral/comments.php:175
+#: wp-content\themes\neutral/comments.php:177
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "<a href=\"%1$s\">%2$s</a>으로 로그인함."
+
+#: wp-content\themes\neutral/comments.php:175
+#: wp-content\themes\neutral/comments.php:177
+msgid "Log out of this account"
+msgstr "이 계정에서 로그아웃"
+
+#: wp-content\themes\neutral/comments.php:175
+msgid "[ Log out ]"
+msgstr "[ 로그아웃 ]"
+
+#: wp-content\themes\neutral/comments.php:177
+msgid "Log out"
+msgstr "로그아웃"
+
+#: wp-content\themes\neutral/comments.php:182
+msgid "NAME"
+msgstr "이름"
+
+#: wp-content\themes\neutral/comments.php:182
+#: wp-content\themes\neutral/comments.php:183
+msgid "( required )"
+msgstr "( 필수 )"
+
+#: wp-content\themes\neutral/comments.php:183
+msgid "E-MAIL"
+msgstr "이메일"
+
+#: wp-content\themes\neutral/comments.php:183
+msgid "- will not be published -"
+msgstr "- 공개되지 않음 -"
+
+#: wp-content\themes\neutral/comments.php:184
+msgid "URL"
+msgstr "URL"
+
+#: wp-content\themes\neutral/comments.php:197
+msgid "Submit Comment"
+msgstr "댓글 등록"
+
+#: wp-content\themes\neutral/footer.php:5
+msgid "Theme designed by mono-lab"
+msgstr "Theme designed by mono-lab"
+
+#: wp-content\themes\neutral/footer.php:6
+msgid "Powered by WordPress"
+msgstr "Powered by WordPress"
+
+#: wp-content\themes\neutral/footer.php:9
+msgid "Return top"
+msgstr "상단으로 가기"
+
+#: wp-content\themes\neutral/functions.php:40
+msgid "Header menu"
+msgstr "헤더 메뉴"
+
+#: wp-content\themes\neutral/functions.php:52
+msgid "Side top"
+msgstr "사이드 상단"
+
+#: wp-content\themes\neutral/functions.php:60
+msgid "Side middle left"
+msgstr "사이드 중앙 좌"
+
+#: wp-content\themes\neutral/functions.php:68
+msgid "Side middle right"
+msgstr "사이드 중앙 우"
+
+#: wp-content\themes\neutral/functions.php:76
+msgid "Side bottom"
+msgstr "사이드 하단"
+
+#: wp-content\themes\neutral/functions.php:124
+msgid " g:ia"
+msgstr " g:ia"
+
+#: wp-content\themes\neutral/functions.php:131
+#: wp-content\themes\neutral/functions.php:133
+#: wp-content\themes\neutral/functions.php:136
+msgid "REPLY"
+msgstr "응답"
+
+#: wp-content\themes\neutral/functions.php:138
+msgid "QUOTE"
+msgstr "인용"
+
+#: wp-content\themes\neutral/functions.php:139
+msgid "EDIT"
+msgstr "편집"
+
+#: wp-content\themes\neutral/functions.php:145
+msgid "Your comment is awaiting moderation."
+msgstr "댓글이 승인을 기다리고 있습니다."
+
+#: wp-content\themes\neutral/header.php:9
+#, php-format
+msgid "Page %s"
+msgstr "페이지 %s"
+
+#: wp-content\themes\neutral/header.php:56
+#: wp-content\themes\neutral/header.php:66
+msgid "SEARCH"
+msgstr "검색"
+
+#: wp-content\themes\neutral/header.php:59
+#: wp-content\themes\neutral/header.php:67
+msgid "Search from this blog."
+msgstr "이 블로그에서 검색."
+
+#: wp-content\themes\neutral/header.php:73
+msgid "RSS"
+msgstr "RSS"
+
+#: wp-content\themes\neutral/header.php:76
+msgid "Twitter"
+msgstr "트위터"
+
+#: wp-content\themes\neutral/header.php:79
+msgid "Facebook"
+msgstr "페이스북"
+
+#: wp-content\themes\neutral/navigation.php:16
+msgid "PAGE NAVI"
+msgstr "페이지 네비게이션"
+
+#: wp-content\themes\neutral/navigation.php:22
+msgid "RETURN HOME"
+msgstr "홈으로 돌아가기"
+
+#: wp-content\themes\neutral/search.php:8
+msgid "Search results for "
+msgstr "검색: "
+
+#: wp-content\themes\neutral/search.php:8
+msgid " hit"
+msgstr " 조회수"
+
+#: wp-content\themes\neutral/search.php:22
+msgid "[ READ MORE ]"
+msgstr "[ 더보기 ]"
+
+#: wp-content\themes\neutral/sidebar.php:33
+msgid "RECENT ENTRY"
+msgstr "최근 글목록"
+
+#: wp-content\themes\neutral/sidebar.php:45
+msgid "CATEGORY"
+msgstr "카테고리"
+
+#: wp-content\themes\neutral/sidebar.php:53
+msgid "ARCHIVES"
+msgstr "보관"
+
+#: wp-content\themes\neutral/sidebar.php:63
+msgid "LINKS"
+msgstr "링크"
+
+#: wp-content\themes\neutral/single.php:9
+msgid "HOME"
+msgstr "메인"
+
+#: wp-content\themes\neutral/single.php:23
+msgid "Posted in "
+msgstr "카테고리: "
+
+#: wp-content\themes\neutral/admin/theme-options.php:25
+msgid "Change this sentence and title from admin Theme option page."
+msgstr "관리자 테마 옵션 페이지에서 이 문장과 제목을 변경하세요."
+
+#: wp-content\themes\neutral/admin/theme-options.php:74
+#: wp-content\themes\neutral/admin/theme-options.php:137
+msgid "Theme Options"
+msgstr "테마 옵션"
+
+#: wp-content\themes\neutral/admin/theme-options.php:86
+msgid "No sidebar"
+msgstr "사이드바 없음"
+
+#: wp-content\themes\neutral/admin/theme-options.php:91
+msgid "Show sidebar"
+msgstr "사이드바 보기"
+
+#: wp-content\themes\neutral/admin/theme-options.php:100
+msgid "Use pager"
+msgstr "페이저 사용"
+
+#: wp-content\themes\neutral/admin/theme-options.php:105
+msgid "Use normal link"
+msgstr "보통 링크 사용"
+
+#: wp-content\themes\neutral/admin/theme-options.php:142
+msgid "Updated"
+msgstr "업데이트됨"
+
+#: wp-content\themes\neutral/admin/theme-options.php:166
+msgid "Basic Setup"
+msgstr "기본 설정"
+
+#: wp-content\themes\neutral/admin/theme-options.php:167
+msgid "Logo"
+msgstr "로고"
+
+#: wp-content\themes\neutral/admin/theme-options.php:181
+msgid "Display Setup"
+msgstr "설정 표시"
+
+#: wp-content\themes\neutral/admin/theme-options.php:184
+msgid "Display author name"
+msgstr "글쓴이 표시"
+
+#: wp-content\themes\neutral/admin/theme-options.php:185
+msgid "Display category"
+msgstr "카테고리 표시"
+
+#: wp-content\themes\neutral/admin/theme-options.php:186
+msgid "Display tags"
+msgstr "태그 표시"
+
+#: wp-content\themes\neutral/admin/theme-options.php:187
+msgid "Display date"
+msgstr "일자 표시"
+
+#: wp-content\themes\neutral/admin/theme-options.php:188
+msgid "Display comment"
+msgstr "댓글 표시"
+
+#: wp-content\themes\neutral/admin/theme-options.php:189
+msgid "Display comment time"
+msgstr "댓글 시간 표시"
+
+#: wp-content\themes\neutral/admin/theme-options.php:190
+msgid "Display next previous post link at single page"
+msgstr "단일 페이지에 다음 이전 글 링크 표시"
+
+#: wp-content\themes\neutral/admin/theme-options.php:191
+msgid "Display breadcrumb at single page"
+msgstr "단일 페이지에 탐색 경로 표시"
+
+#: wp-content\themes\neutral/admin/theme-options.php:192
+msgid "Display return top link  at bottom of the page"
+msgstr "페이지 하단에 상단으로 돌아가기 링크 표시"
+
+#: wp-content\themes\neutral/admin/theme-options.php:193
+msgid "Display search form at header"
+msgstr "헤더에 검색 폼 표시"
+
+#: wp-content\themes\neutral/admin/theme-options.php:194
+msgid "Display rss at header"
+msgstr "헤더에 RSS 표시"
+
+#: wp-content\themes\neutral/admin/theme-options.php:195
+msgid "Display site description under site title"
+msgstr "사이트 제목 아래에 사이트 설명 표시"
+
+#: wp-content\themes\neutral/admin/theme-options.php:202
+msgid "Side information setting"
+msgstr "사이드 정보 설정"
+
+#: wp-content\themes\neutral/admin/theme-options.php:204
+msgid "Please make this field blank if you don't want to display at the site."
+msgstr "사이트에 표시하기 원치 않는다면 이 필드를 빈칸으로 놔두시기 바랍니다."
+
+#: wp-content\themes\neutral/admin/theme-options.php:206
+msgid "Title of information area"
+msgstr "정보 영역의 제목"
+
+#: wp-content\themes\neutral/admin/theme-options.php:217
+#: wp-content\themes\neutral/admin/theme-options.php:219
+msgid "Layout"
+msgstr "레이아웃"
+
+#: wp-content\themes\neutral/admin/theme-options.php:247
+#: wp-content\themes\neutral/admin/theme-options.php:249
+msgid "Pager type"
+msgstr "페이저 종류"
+
+#: wp-content\themes\neutral/admin/theme-options.php:277
+msgid "twitter and facebook setup"
+msgstr "트위터와 페이스북 설정"
+
+#: wp-content\themes\neutral/admin/theme-options.php:279
+msgid "When it is blank, twitter and facebook icon will not displayed on a site."
+msgstr "빈칸이라면 트위터와 페이스북 아이콘은 사이트에 표시되지 않습니다."
+
+#: wp-content\themes\neutral/admin/theme-options.php:282
+msgid "your twitter URL"
+msgstr "당신의 트위터 URL"
+
+#: wp-content\themes\neutral/admin/theme-options.php:286
+msgid "your facebook URL"
+msgstr "당신의 페이스북 URL"
+
+#: wp-content\themes\neutral/admin/theme-options.php:295
+msgid "Using Google custom search"
+msgstr "구글 사용자정의 검색 사용"
+
+#: wp-content\themes\neutral/admin/theme-options.php:297
+msgid "If you want to use google custom search for your wordpress, enter your google custom search ID.<br /><a href=\"http://www.google.com/cse/\" target=\"_blank\">Read more about Google custom search page.</a>"
+msgstr "만약 사이트에 구글 사용자정의 검색을 사용하고 싶다면, 당신의 구글 사용자정의 검색 ID를 입력하세요.<br /><a href=\"http://www.google.com/cse/\" target=\"_blank\">구글 사용자정의 검색 페이지에 대해 더 자세히 알아봅니다.</a>"
+
+#: wp-content\themes\neutral/admin/theme-options.php:298
+msgid "Google custom search ID"
+msgstr "구글 사용자정의 검색 ID"
+
+#: wp-content\themes\neutral/admin/theme-options.php:303
+msgid "Save Changes"
+msgstr "변경 저장"
+
+#: wp-content\themes\neutral/admin/theme-options.php:315
+msgid "Step 1 : Upload image to use for logo."
+msgstr "1단계 : 로고로 사용할 이미지를 업로드하세요."
+
+#: wp-content\themes\neutral/admin/theme-options.php:317
+msgid "Upload image to use for logo from your computer.<br />You can resize your logo image in step 2 and adjust position in step 3."
+msgstr "당신의 컴퓨터에서 로고로 사용할 이미지를 업로드하세요.<br />2단계에서 로고 이미지를 리사이즈 할 수 있고 3단계에서 위치 조정을 할 수 있습니다."
+
+#: wp-content\themes\neutral/admin/theme-options.php:319
+msgid "Select image to use for logo from your computer."
+msgstr "당신의 컴퓨터에서 로고로 사용할 이미지를 선택하세요."
+
+#: wp-content\themes\neutral/admin/theme-options.php:321
+msgid "Upload"
+msgstr "업로드"
+
+#: wp-content\themes\neutral/admin/theme-options.php:325
+msgid "Uploaded image."
+msgstr "업로드된 이미지."
+
+#: wp-content\themes\neutral/admin/theme-options.php:329
+#, php-format
+msgid "Original image size : width %1$dpx, height %2$dpx"
+msgstr "원본 이미지 크기 : 너비 %1$dpx, 높이 %2$dpx"
+
+#: wp-content\themes\neutral/admin/theme-options.php:333
+msgid "The image has not been uploaded yet.<br />A normal text will be used for a site logo."
+msgstr "아직 이미지가 업로드되지 않았습니다.<br />일반 텍스트가 사이트 로고로 사용됩니다."
+
+#: wp-content\themes\neutral/admin/theme-options.php:342
+msgid "Step 2 : Resize uploaded image."
+msgstr "2단계 : 업로드된 이미지를 리사이즈하세요."
+
+#: wp-content\themes\neutral/admin/theme-options.php:345
+msgid "You can resize uploaded image.<br />If you don't need to resize, go to step 3."
+msgstr "업로드된 이미지를 리사이즈할 수 있습니다.<br />리사이즈 할 필요가 없다면, 3단계로 가세요."
+
+#: wp-content\themes\neutral/admin/theme-options.php:347
+msgid "Please drag the range to cut off."
+msgstr "잘라낼 범위를 정하세요."
+
+#: wp-content\themes\neutral/admin/theme-options.php:352
+msgid "Ratio"
+msgstr "비율"
+
+#: wp-content\themes\neutral/admin/theme-options.php:353
+msgid "Width"
+msgstr "너비"
+
+#: wp-content\themes\neutral/admin/theme-options.php:354
+msgid "Height"
+msgstr "높이"
+
+#: wp-content\themes\neutral/admin/theme-options.php:357
+msgid "Resize"
+msgstr "리사이즈"
+
+#: wp-content\themes\neutral/admin/theme-options.php:362
+#, php-format
+msgid "Resized image : width %1$dpx, height %2$dpx"
+msgstr "리사이즈된 이미지: 너비 %1$dpx, 높이 %2$dpx"
+
+#: wp-content\themes\neutral/admin/theme-options.php:376
+msgid "Step 3 : Adjust position of logo."
+msgstr "3단계 : 로고의 위치를 조정하세요."
+
+#: wp-content\themes\neutral/admin/theme-options.php:379
+msgid "Drag the logo image and adjust the position."
+msgstr "로고 이미지를 끌어서 위지를 조정하세요."
+
+#: wp-content\themes\neutral/admin/theme-options.php:383
+msgid "Logo size is too big. Please resize your logo image."
+msgstr "로고 크기는 너무 큽니다. 당신의 로고 이미지를 리사이즈해주세요."
+
+#: wp-content\themes\neutral/admin/theme-options.php:387
+msgid "Top"
+msgstr "상단"
+
+#: wp-content\themes\neutral/admin/theme-options.php:388
+msgid "Left"
+msgstr "좌"
+
+#: wp-content\themes\neutral/admin/theme-options.php:391
+msgid "Save the position"
+msgstr "위치 저장"
+
+#: wp-content\themes\neutral/admin/theme-options.php:400
+msgid "Delete logo image."
+msgstr "로고 이미지 삭제."
+
+#: wp-content\themes\neutral/admin/theme-options.php:402
+msgid "If you delete the logo image, normal text will be used for a site logo."
+msgstr "만약 로고 이미지를 삭제한다면, 일반 텍스트가 사이트 로고를 대신하게 됩니다."
+
+#: wp-content\themes\neutral/admin/theme-options.php:403
+msgid "Are you sure to delete logo image?"
+msgstr "로고 이미지를 삭제하시겠습니까?"
+
+#: wp-content\themes\neutral/admin/theme-options.php:403
+msgid "Delete Image"
+msgstr "이미지 삭제"
+
+#: wp-content\themes\neutral/admin/update_notifier.php:12
+msgid "Theme Update<span class=\"update-plugins count-1\"><span class=\"update-count\">1</span></span>"
+msgstr "테마 업데이트<span class=\"update-plugins count-1\"><span class=\"update-count\">1</span></span>"
+
+#: wp-content\themes\neutral/admin/update_notifier.php:34
+msgid "Theme Update Information"
+msgstr "테마 업데이트 정보"
+
+#: wp-content\themes\neutral/admin/update_notifier.php:36
+msgid "Current theme version is"
+msgstr "현재 테마 버전은"
+
+#: wp-content\themes\neutral/admin/update_notifier.php:36
+msgid "Now you can update to"
+msgstr "이제 다음 업데이트를 하실 수 있습니다: "
+
+#: wp-content\themes\neutral/admin/update_notifier.php:39
+msgid "Please take backup of your theme before updating to latest version!"
+msgstr "최신 버전으로 업데이트하기 전에 당신의 테마를 백업하세요!"
+
+#: wp-content\themes\neutral/admin/update_notifier.php:40
+msgid "Download latest version"
+msgstr "최신 버전 다운로드"
+
+#: wp-content\themes\neutral/admin/update_notifier.php:42
+msgid "Changelog"
+msgstr "변경사항"
+
+#: wp-content\themes\neutral/functions/header-logo.php:231
+#, php-format
+msgid "Cannot create upload directory. Please make sure <code>%s</code> is writable."
+msgstr "업로드 디렉토리를 생성할 수 없습니다. <code>%s</code>이(가) 쓰기가능한지 확인하세요."
+
+#: wp-content\themes\neutral/functions/header-logo.php:243
+#, php-format
+msgid "Cannot save uploaded file. Please make sure <code>%s</code> is writable."
+msgstr "업로드된 파일을 저장할 수 없습니다. <code>%s</code>이(가) 쓰기가능한지 확인하세요."
+
+#: wp-content\themes\neutral/functions/header-logo.php:254
+msgid "Uploaded file type is not allowed. Allowed file types are PNG, JPG and GIF."
+msgstr "업로드된 파일 형식은 허용되지 않습니다. 허용되는 파일 형식은 PNG, JPG 그리고 GIF입니다."
+
+#: wp-content\themes\neutral/functions/header-logo.php:266
+#, php-format
+msgid "Cannot delete existing file <code>%s</code>"
+msgstr "<code>%s</code> 파일을 삭제할 수 없습니다"
+
+#: wp-content\themes\neutral/functions/header-logo.php:276
+msgid "Sorry, but cannot save uploaded file."
+msgstr "죄송합니다, 하지만 업로드된 파일을 저장할 수 없습니다."
+
+#: wp-content\themes\neutral/functions/header-logo.php:282
+msgid "Logo file was successfully uploaded."
+msgstr "로고 파일은 성공적으로 업로드되었습니다."
+
+#: wp-content\themes\neutral/functions/header-logo.php:326
+#, php-format
+msgid "Failed to delete image. Please check permisson of %s. All files must be writable."
+msgstr "이미지 삭제를 실패했습니다. %s의 권한을 체크하세요. 모든 파일은 쓰기가능해야 합니다."
+
+#: wp-content\themes\neutral/functions/header-logo.php:333
+msgid "Images are successfully deleted."
+msgstr "이미지는 성공적으로 삭제되었습니다."
+
+#: wp-content\themes\neutral/functions/header-logo.php:354
+#: wp-content\themes\neutral/functions/header-logo.php:359
+msgid "Logo file not exists."
+msgstr "로고 파일이 존재하지 않습니다."
+
+#: wp-content\themes\neutral/functions/header-logo.php:379
+msgid "Cannot delete existing resized logo."
+msgstr "리사이즈된 로고를 삭제할 수 없습니다."
+
+#: wp-content\themes\neutral/functions/header-logo.php:395
+msgid "Logo image is successfully resized."
+msgstr "로고 파일은 성공적으로 리사이즈되었습니다."
+
+#: wp-content\themes\neutral/functions/header-logo.php:397
+#, php-format
+msgid "Failed to save resized logo. Please check permission of <code>%s</code>"
+msgstr "리사이즈된 로고 저장을 실패했습니다. <code>%s</code>의 권한을 체크하세요."
+
+#: wp-content\themes\neutral/functions/header-logo.php:410
+msgid "Uploaded file size is larger than limit set in php.ini."
+msgstr "업로드된 파일 크기는 php.ini에 설정된 한계치보다 큽니다."
+
+#: wp-content\themes\neutral/functions/header-logo.php:413
+msgid "Uploaded file size is larget than post file size."
+msgstr "업로드된 파일 크기는 글 파일 크기보다 큽니다."
+
+#: wp-content\themes\neutral/functions/header-logo.php:416
+msgid "The file has been uploaded only partially. Connection error may have occured"
+msgstr "파일은 일부만 업로드되었습니다. 연결 에러가 발생한 것 같습니다."
+
+#: wp-content\themes\neutral/functions/header-logo.php:419
+msgid "Uploaded file size is too large."
+msgstr "업로드된 파일 크기가 너무 큽니다."
+
+#: wp-content\themes\neutral/functions/header-logo.php:422
+msgid "No temporary directory exists. Please check PHP Setting is valid."
+msgstr "임시 디렉토리가 존재하지 않습니다. PHP 설정이 유효한지 체크하세요."
+
+#: wp-content\themes\neutral/functions/header-logo.php:425
+msgid "Failed to write to disk. OS file setting or something is wrong."
+msgstr "디스크에 쓰기 실패했습니다. OS 파일 설정이나 다른 것이 문제가 있습니다."
+
+#: wp-content\themes\neutral/functions/header-logo.php:428
+msgid "PHP extension module stops uploading. Check PHP setting."
+msgstr "PHP 확장 모듈이 업로드를 중지시켰습니다. PHP 설정을 체크하세요."
+
+#: wp-content\themes\neutral/functions/header-logo.php:431
+msgid "Upload failed. Sorry, but reasons cannot be detected."
+msgstr "업로드가 실패했습니다. 죄송합니다, 하지만 이유를 알 수 없습니다."
+
+#~ msgid "Theme options have been saved."
+#~ msgstr "테마 옵션이 저장되었습니다."
+
+#~ msgid ""
+#~ "Check if you would like to use original image for logo instead of using "
+#~ "plain text.<br />( Don't forget to upload image to, wp-content/themes/"
+#~ "neutral/img/ )"
+#~ msgstr ""
+#~ "만약 일반 텍스트가 아닌 원본 이미지를 로고로 사용하고 싶다면 체크하세요."
+#~ "<br />( wp-content/themes/neutral/img/ 에 이미지 업로드하는 것을 잊지마세"
+#~ "요.)"
+
+#~ msgid "Yes"
+#~ msgstr "예"
+
+#~ msgid "Write your logo file name."
+#~ msgstr "로고 파일명을 입력하세요."
+
+#~ msgid "Show Search area on header."
+#~ msgstr "헤더에 검색 표시."
+
+#~ msgid ""
+#~ "Use <a href=\"http://www.google.com/cse/\">Google Custom Search</a><br />"
+#~ "(If you check this option,don't forget to write your Google Custom Search "
+#~ "ID below.)"
+#~ msgstr ""
+#~ "<a href=\"http://www.google.com/cse/\">구글 사용자정의 검색</a>사용<br />"
+#~ "(만약 이 옵션을 체크했다면, 아래에 구글 사용자정의 검색 ID를 입력하는 것"
+#~ "을 잊지마세요.)"
+
+#~ msgid "Show RSS button on header."
+#~ msgstr "헤더에 RSS 버튼 표시."
+
+#~ msgid "Show Twitter button on header."
+#~ msgstr "헤더에 트위터 버튼 표시."
+
+#~ msgid "Information contents. ( HTML tag is available. )"
+#~ msgstr "정보 내용. (HTML 태그 사용가능.)"
+
+#~ msgid "Use pages for header menu."
+#~ msgstr "헤더 메뉴에 페이지 사용."
+
+#~ msgid "Use categories for header menu."
+#~ msgstr "헤더 메뉴에 카테고리 사용."
+
+#~ msgid ""
+#~ "Exclude Pages (Page ID's you don't want displayed in your header "
+#~ "navigation. Use a comma-delimited list, eg. 1,2,3)"
+#~ msgstr ""
+#~ "제외 페이지들 (헤더 네비게이션에 표시를 원치 않는 페이지 ID.쉼표로 구분된 "
+#~ "목록 사용, 예제. 1,2,3)"
+
+#~ msgid ""
+#~ "Exclude Categories (Category ID's you don't want displayed in your header "
+#~ "navigation. Use a comma-delimited list, eg. 1,2,3)"
+#~ msgstr ""
+#~ "제외 카테고리들 (헤더 네비게이션에 표시를 원치 않는 카테고리 ID. 쉼표로 구"
+#~ "분된 목록 사용, 예제. 1,2,3)"
+
+#~ msgid "Post meta type."
+#~ msgstr "글 메타 타입."
+
+#~ msgid "Show tag."
+#~ msgstr "태그 표시."
+
+#~ msgid "Show time on comment."
+#~ msgstr "댓글의 시간 보기."
+
+#~ msgid "Check if you want to show Return top link."
+#~ msgstr "만약 상위 링크로 돌아가기를 표시하고 싶다면 체크하세요."
+
+#~ msgid " | "
+#~ msgstr " | "
+
+#~ msgid "Google Search"
+#~ msgstr "구글 검색"
+
+#~ msgid "Search"
+#~ msgstr "검색"

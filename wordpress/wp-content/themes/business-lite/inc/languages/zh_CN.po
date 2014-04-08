@@ -1,0 +1,261 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Business Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-28 15:29:01 UTC\n"
+"PO-Revision-Date: 2013-05-30 11:38-0000\n"
+"Last-Translator: Web Translate It <support@webtranslateit.com>\n"
+"Language-Team: Chinese, China\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../404.php
+msgid "Oops! That page cannot be found."
+msgstr "哎呀！无法找到该网页。"
+
+#: ../../404.php
+msgid ""
+"It looks like nothing was found at this location. Maybe try searching for it?"
+msgstr "它看起来像什么也没发现在这个位置。也许尝试寻找它呢？"
+
+#: ../../comments.php
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+
+#: ../../comments.php
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: ../../comments.php
+msgid "Older Comments"
+msgstr "较旧的评论 "
+
+#: ../../comments.php
+msgid "Newer Comments"
+msgstr "较新的评论"
+
+#: ../../comments.php
+msgid "Comments are closed."
+msgstr "评论被关闭。"
+
+#: ../../content.php
+msgid "Permalink to %s"
+msgstr "连结到%s"
+
+#: ../../content.php
+msgid "Continue reading"
+msgstr "继续阅读"
+
+#: ../../image.php ../../content.php
+msgid "Pages:"
+msgstr "页面"
+
+#: ../../image.php ../../content.php
+msgid "Edit"
+msgstr "编辑"
+
+#: ../../sidebar.php ../../sidebar-right.php ../../sidebar-left.php
+#: ../../footer.php
+msgid "Pages"
+msgstr "页面"
+
+#: ../../sidebar.php ../../sidebar-right.php ../../sidebar-left.php
+#: ../../footer.php
+msgid "Archives"
+msgstr "归档"
+
+#: ../../sidebar.php ../../sidebar-right.php ../../sidebar-left.php
+#: ../../footer.php
+msgid "Categories"
+msgstr "类型"
+
+#: ../../sidebar.php ../../sidebar-right.php ../../sidebar-left.php
+#: ../../footer.php
+msgid "WordPress"
+msgstr "WordPress"
+
+#: ../../sidebar.php ../../sidebar-right.php ../../sidebar-left.php
+#: ../../footer.php
+msgid ""
+"Powered by WordPress, state-of-the-art semantic personal publishing platform."
+msgstr "基于 WordPress，优美的个人信息发布平台。"
+
+#: ../../functions.php
+msgid "Pingback:"
+msgstr "通告:"
+
+#: ../../functions.php
+msgid "(Edit)"
+msgstr "（编辑）"
+
+#: ../../functions.php
+msgid "says:"
+msgstr "说"
+
+#: ../../functions.php
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论需要审核…"
+
+#: ../../functions.php
+msgid "%1$s"
+msgstr "%1$ s"
+
+#: ../../functions.php
+msgid "Professional Business Theme"
+msgstr "专业的商务主题"
+
+#: ../../functions.php
+msgid "Secondary Menu"
+msgstr "第二级菜单"
+
+#: ../../functions.php
+msgid "View all posts by %s"
+msgstr "查看 %s 的所有文章"
+
+#: ../../functions.php
+msgid "Leave a comment"
+msgstr "留下评论"
+
+#: ../../functions.php
+msgid "1 Comment"
+msgstr "1条回复"
+
+#: ../../functions.php
+msgid "Comments"
+msgstr "评论"
+
+#: ../../functions.php
+msgid "Our Blog"
+msgstr "我们的博客"
+
+#: ../../functions.php
+msgid "Category Archives: %s"
+msgstr "分类存档： %s"
+
+#: ../../functions.php
+msgid "Tag Archives: %s"
+msgstr "Tag存档：%s"
+
+#: ../../functions.php
+msgid "Author Archives: %s"
+msgstr "作者存档：%s"
+
+#: ../../functions.php
+msgid "Daily Archives: %s"
+msgstr "每日存档：%s"
+
+#: ../../functions.php
+msgid "Monthly Archives: %s"
+msgstr "每月存档：%s"
+
+#: ../../functions.php
+msgid "Yearly Archives: %s"
+msgstr "每年存档：%s"
+
+#: ../../functions.php
+msgid "Search Results for: %s"
+msgstr "搜索结果：%s"
+
+#: ../../functions.php
+msgid "Logo"
+msgstr "徽标"
+
+#: ../../functions.php
+msgid "Logo + Login"
+msgstr "徽标 + 登录"
+
+#: ../../functions.php
+msgid "Logo + Search"
+msgstr "徽标+搜索"
+
+#: ../../image.php
+msgid "Published"
+msgstr "已发布"
+
+#: ../../image.php
+msgid "size"
+msgstr "大小"
+
+#: ../../image.php
+msgid "in"
+msgstr "在"
+
+#: ../../image.php
+msgid "Previous"
+msgstr "預覽"
+
+#: ../../image.php
+msgid "Next"
+msgstr "下一步"
+
+#: ../../image.php
+msgid "Post a comment"
+msgstr "评论："
+
+#: ../../image.php
+msgid "or leave a trackback"
+msgstr "或留下引用"
+
+#: ../../image.php
+msgid "Trackback URL"
+msgstr "引用URLs"
+
+#: ../../image.php
+msgid "Comments are closed, but you can leave a trackback: "
+msgstr "评论已关闭，但你可以留下引用"
+
+#: ../../image.php
+msgid "Trackbacks are closed, but you can %s"
+msgstr "引用通告已经关闭，但你可以 %s"
+
+#: ../../image.php
+msgid "post a comment"
+msgstr "评论："
+
+#: ../../image.php
+msgid "Both comments and trackbacks are currently closed."
+msgstr "评论和引用都被关闭。"
+
+#: ../../no-results.php
+msgid "Nothing Found"
+msgstr "没有找到"
+
+#: ../../no-results.php
+msgid "Ready to publish your first post?"
+msgstr "准备好发布您的第一篇文章了吗？"
+
+#: ../../no-results.php
+msgid "Get started here"
+msgstr "从这里开始"
+
+#: ../../no-results.php
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "抱歉，没有符合您搜索条件。请再次尝试一些不同的关键字。"
+
+#: ../../no-results.php
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "看来我们找不到你在寻找什么。也许搜索可以帮助。"
+
+#: ../../searchform.php
+msgid "Search &hellip;"
+msgstr "搜索 &hellip;"
+
+#: ../../sidebar.php ../../sidebar-right.php ../../sidebar-left.php
+msgid "Subscribe"
+msgstr "订阅"
+
+#: ../../sidebar.php ../../sidebar-right.php ../../sidebar-left.php
+msgid "Entries (RSS)"
+msgstr "条目 (RSS)"
+
+#: ../../sidebar.php ../../sidebar-right.php ../../sidebar-left.php
+msgid "Comments (RSS)"
+msgstr "评论（RSS）"

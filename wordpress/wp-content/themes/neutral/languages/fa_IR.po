@@ -1,0 +1,451 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Neutral 1.0 Persian\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-26 09:34+0330\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Tohid Ordekhani <tohid@ordekhani.ir>\n"
+"Language-Team: Tohid Ordekhani <tohid@ordekhani.ir>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: D:\\UniServer\\UniServer\\www\\wp-content\\themes\\neutral\n"
+"X-Poedit-SearchPath-0: D:\\UniServer\\UniServer\\www\\wp-content\\themes\\neutral\n"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/404.php:7
+msgid "Error 404 Not Found."
+msgstr "خطای 404- پیدا نشد."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/archive.php:10
+#, php-format
+msgid "Archive for the &#8216;<span id=\"keyword\"> %s </span>&#8217; Category"
+msgstr "بایگانی دسته &#8216;<span id=\"keyword\"> %s </span>&#8217;"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/archive.php:13
+#, php-format
+msgid "Posts Tagged &#8216;<span id=\"keyword\"> %s </span>&#8217;"
+msgstr "نوشته‌های برچسب‌گذاری‌شده با &#8216;<span id=\"keyword\"> %s </span>&#8217;"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/archive.php:16
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/archive.php:19
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/archive.php:22
+#, php-format
+msgid "Archive for &#8216;<span id=\"keyword\"> %s </span>&#8217;"
+msgstr "بایگانی برای &#8216;<span id=\"keyword\"> %s </span>&#8217;"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/archive.php:16
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/archive.php:37
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:116
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:388
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/index.php:10
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/search.php:16
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/single.php:22
+msgid "F jS, Y"
+msgstr "jS F Y"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/archive.php:19
+msgid "F, Y"
+msgstr ""
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/archive.php:22
+msgid "Y"
+msgstr ""
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/archive.php:25
+msgid "Author Archive"
+msgstr "بایگانی نویسنده"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/archive.php:28
+msgid "Blog Archives"
+msgstr "بایگانی وبلاگ"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/archive.php:38
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/index.php:11
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/page-nocomment.php:17
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/page-noside-nocomment.php:16
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/page-noside.php:16
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/page.php:12
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/search.php:17
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/single.php:24
+msgid "By "
+msgstr "توسط "
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/archive.php:39
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:117
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/index.php:12
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/page-nocomment.php:19
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/page-noside-nocomment.php:18
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/page-noside.php:18
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/page.php:14
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/search.php:18
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/single.php:26
+msgid "[ EDIT ]"
+msgstr "[ ویرایش ]"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/archive.php:42
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/index.php:15
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/page-nocomment.php:22
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/page-noside-nocomment.php:21
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/page-noside.php:21
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/page.php:17
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/single.php:29
+msgid "Read more"
+msgstr "بیشتر بخوانید"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/archive.php:53
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:39
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/index.php:26
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/page-nocomment.php:18
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/page-noside-nocomment.php:17
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/page-noside.php:17
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/page.php:13
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/single.php:25
+msgid "Write comment"
+msgstr "نوشتن دیدگاه"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/archive.php:53
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/index.php:26
+msgid "1 comment"
+msgstr "یک دیدگاه"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/archive.php:53
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/index.php:26
+#, php-format
+msgid "% comments"
+msgstr "% دیدگاه"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/archive.php:59
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/index.php:32
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/page-nocomment.php:29
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/page-noside-nocomment.php:28
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/page-noside.php:28
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/page.php:24
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/search.php:25
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/single.php:36
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "متأسفیم، آنچه می‌خواستید، پیدا نشد."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:10
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:19
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "این نوشته با رمز محافظت شده است. برای نمایش دیدگاه‌ها، رمز را بنویسید."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:41
+msgid "Comments RSS"
+msgstr "RSS دیدگاه‌ها"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:46
+msgid "Trackback"
+msgstr "بازخورد"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:47
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:50
+msgid "Comments"
+msgstr "دیدگاه‌ها"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:49
+msgid "Trackback are closed"
+msgstr "بازخوردها بسته است"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:78
+msgid "No comments yet."
+msgstr "هنوز دیدگاهی داده نشده است."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:105
+msgid "TrackBack URL"
+msgstr "نشانی بازخورد"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:120
+msgid "Trackback from : "
+msgstr "بازخورد از: "
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:126
+msgid "No trackbacks yet."
+msgstr "هنوز بازخوردی داده نشده است."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:141
+msgid "Comment are closed."
+msgstr "دیدگاه‌ها بسته است."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:156
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "شما باید <a href=\"%s\">وارد شوید</a> تا بتوانید دیدگاهی بنویسید."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:175
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:177
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "واردشده با نام <a href=\"%1$s\">%2$s</a>."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:175
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:177
+msgid "Log out of this account"
+msgstr "خارج‌شدن از این نام کاربری"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:175
+msgid "[ Log out ]"
+msgstr " [ خروج ]"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:177
+msgid "Log out"
+msgstr "خروج"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:182
+msgid "NAME"
+msgstr "نام"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:182
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:183
+msgid "( required )"
+msgstr "( لازم )"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:183
+msgid "E-MAIL"
+msgstr "پست الکترونیک"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:183
+msgid "- will not be published -"
+msgstr "- نشان داده نخواهد شد -"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:184
+msgid "URL"
+msgstr "وب‌سایت"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/comments.php:197
+msgid "Submit Comment"
+msgstr "فرستادن دیدگاه"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/footer.php:4
+msgid "Theme designed by mono-lab"
+msgstr "طراح پوسته: mono-lab"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/footer.php:5
+msgid "Powered by Persian WordPress"
+msgstr "نیروگرفته از وردپرس فارسی"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/footer.php:8
+msgid "Return top"
+msgstr "بالای صفحه"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:177
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:190
+msgid "Neutral Theme Options"
+msgstr "تنظیمات پوسته Neutral"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:185
+msgid "Theme options have been saved."
+msgstr "تنظیمات پوسته ذخیره شد."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:194
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:279
+msgid "Save Changes"
+msgstr "ذخیره‌ی تغییرات"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:197
+msgid "Check if you would like to use original image for logo instead of using plain text.<br />( Don't forget to upload image to, wp-content/themes/neutral/img/ )"
+msgstr "اگر می‌خواهید برای لوگو، به جای نوشته عنوان از عکس استفاده کنید، تیک بزنید.<br />( فراموش نکنید که باید عکس را به آدرس wp-content/themes/neutral/img/ بارگذاری کنید. )"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:198
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:205
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:208
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:215
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:220
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:227
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:239
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:255
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:258
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:261
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:264
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:271
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:276
+msgid "Yes"
+msgstr "آری"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:199
+msgid "Write your logo file name."
+msgstr "نام پرونده لوگوی خود را بنویسید."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:204
+msgid "Show Search area on header."
+msgstr "نمایش بخش جست‌وجو در سربرگ."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:207
+msgid "Use <a href=\"http://www.google.com/cse/\">Google Custom Search</a><br />(If you check this option,don't forget to write your Google Custom Search ID below.)"
+msgstr "به کاربردن <a href=\"http://www.google.com/cse/\">جست‌وجوی سفارشی گوگل</a><br />( اگر این گزینه را تیک می‌زنید، فراموش نکنید که آی‌دی جست‌وجوی سفارشی گوگل خودتان را در زیر بنویسید. )"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:209
+msgid "Input your Google Custom Search ID."
+msgstr "آی‌دی جست‌وجوی سفارشی گوگل خودتان را وارد کنید."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:214
+msgid "Show RSS button on header."
+msgstr "نمایش دکمه RSS در سربرگ."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:219
+msgid "Show Twitter button on header."
+msgstr "نمایش دکمه تویتر در سربرگ."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:221
+msgid "Write your Twitter URL."
+msgstr "نشانی URL تویتر خودتان را بنویسید."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:226
+msgid "Show Information on sidebar."
+msgstr "نمایش کادر اطلاعات در ستون کناری."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:229
+msgid "Information title."
+msgstr "عنوان کادر."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:232
+msgid "Information contents. ( HTML tag is available. )"
+msgstr "متن کادر اطلاعات. ( استفاده از برچسب HTML مجاز است. )"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:238
+msgid "Check if you would like to use Custom Navigation Menus in WordPress 3.0."
+msgstr "اگر می‌خواهید فهرست‌های سفارشی را در وردپرس نگارش 3.0 به‌کارببرید، تیک بزنید."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:241
+msgid "Header menu."
+msgstr "فهرست سربرگ."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:242
+msgid "Use pages for header menu."
+msgstr "نمایش برگه‌ها در فهرست سربرگ."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:243
+msgid "Use categories for header menu."
+msgstr "نمایش دسته‌ها در فهرست سربرگ."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:245
+msgid "Exclude Pages (Page ID's you don't want displayed in your header navigation. Use a comma-delimited list, eg. 1,2,3)"
+msgstr "برگه‌های استثنا ( آی‌دی برگه‌هایی که نمی‌خواهید در فهرست سربرگ سایت شما نشان داده شوند. آی‌دی‌ها را با ویرگول لاتین (کاما) جدا کنید. مانند: 1,2,3 )"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:248
+msgid "Exclude Categories (Category ID's you don't want displayed in your header navigation. Use a comma-delimited list, eg. 1,2,3)"
+msgstr "دسته‌های استثنا ( آی‌دی دسته‌هایی که نمی‌خواهید در فهرست سربرگ سایت شما نشان داده شوند. آی‌دی‌ها را با ویرگول لاتین (کاما) جدا کنید. مانند: 1,2,3 )"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:254
+msgid "Show author name."
+msgstr "نمایش نام نویسنده."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:257
+msgid "Show border aroud image in post area."
+msgstr "نمایش حاشیه به دور عکس‌ها در نوشته‌ها."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:260
+msgid "Show bread crumb at single post page."
+msgstr "نمایش بخش نشانی نوشته (بخش بالایی) در نوشته‌های تنها."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:263
+msgid "Show next preview post at the bottom of single post page."
+msgstr "نمایش پیوند نوشته های قبلی و بعدی در بخش زیرین نوشته‌های تنها."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:266
+msgid "Post meta type."
+msgstr "شیوه نمایش اطلاعات نوشته."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:267
+msgid "Show category."
+msgstr "نمایش دسته‌بندی."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:268
+msgid "Show tag."
+msgstr "نمایش برچسب‌ها."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:270
+msgid "Show time on comment."
+msgstr "نمایش زمان دیدگاه."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:275
+msgid "Check if you want to show Return top link."
+msgstr "اگر می‌خواهید پیوند به بالای صفحه نمایش داده شود، تیک بزنید."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:388
+msgid " g:ia"
+msgstr ""
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:395
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:397
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:400
+msgid "REPLY"
+msgstr "پاسخ‌دادن"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:402
+msgid "QUOTE"
+msgstr "نقل‌قول"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:403
+msgid "EDIT"
+msgstr "ویرایش"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/functions.php:409
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه شما در انتظار تایید مدیریت است."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/header.php:6
+msgid " | "
+msgstr ""
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/header.php:60
+msgid "Google Search"
+msgstr "جست‌وجوی گوگل"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/header.php:63
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/header.php:71
+msgid "Search from this blog."
+msgstr "جست‌وجو از این وبلاگ."
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/header.php:70
+msgid "Search"
+msgstr "جست‌وجو"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/header.php:77
+msgid "RSS"
+msgstr "RSS"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/header.php:80
+msgid "Twitter"
+msgstr "تویتر"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/header.php:89
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/single.php:10
+msgid "HOME"
+msgstr "خانه"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/search.php:8
+msgid "Search results for "
+msgstr "نتایج جست‌وجو برای "
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/search.php:8
+msgid " hit"
+msgstr " مورد"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/search.php:20
+msgid "[ READ MORE ]"
+msgstr "[ بیشتر بخوانید ]"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/sidebar.php:32
+msgid "RECENT ENTRY"
+msgstr "نوشته‌های تازه"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/sidebar.php:43
+msgid "CATEGORY"
+msgstr "دسته‌ها"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/sidebar.php:51
+msgid "ARCHIVES"
+msgstr "بایگانی"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/sidebar.php:60
+msgid "LINKS"
+msgstr "پیوندها"
+
+#: D:\UniServer\UniServer\www\wp-content\themes\neutral/single.php:23
+msgid "Posted in "
+msgstr "نوشته‌شده در "
+

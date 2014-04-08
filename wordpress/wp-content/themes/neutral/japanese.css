@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+body { font-family:"Century Gothic", Arial,'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif; }
+
+h1.logo_text { font-size:23px; font-weight:normal; line-height:100%; position:absolute; top:96px; left:55px; }
+h2#site_description { font-size:10px; top:121px; left:59px; }
+h1.no_desc { top:106px; }
+
+.post_title { font-size:18px; }
+
+.post_content a.more-link, .post_content a.more-link:visited { line-height:34px; }
+
+.post_meta li { font-size:10px; }
+
+#bread_crumb li { font-size:10px; }
+
+#copyright li { font-size:10px; }
+
+/*コメント*/
+#comment_header { font-size:10px; }
+.comment-name-date { padding:5px 0 0 0; }
+.comment-act { right:22px; top:3px; }
+

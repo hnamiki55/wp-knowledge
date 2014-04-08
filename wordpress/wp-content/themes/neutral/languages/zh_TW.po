@@ -1,0 +1,447 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: neutral\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-03-18 00:22+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jarvis Lin (http://jarvislin.com) <fantasysea@gmail.com>\n"
+"Language-Team: monolab <mail@monolab.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Traditional Chinese\n"
+"X-Poedit-Country: TAIWAN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: wp-content\themes\neutral/404.php:7
+msgid "Error 404 Not Found."
+msgstr "404錯誤, 找不到訊息."
+
+#: wp-content\themes\neutral/archive.php:10
+#, php-format
+msgid "Archive for the &#8216;<span id=\"keyword\"> %s </span>&#8217; Category"
+msgstr "分類: &#8216;<span id=\"keyword\"> %s </span>&#8217; "
+
+#: wp-content\themes\neutral/archive.php:13
+#, php-format
+msgid "Posts Tagged &#8216;<span id=\"keyword\"> %s </span>&#8217;"
+msgstr "標籤: &#8216;<span id=\"keyword\"> %s </span>&#8217; "
+
+#: wp-content\themes\neutral/archive.php:16
+#: wp-content\themes\neutral/archive.php:19
+#: wp-content\themes\neutral/archive.php:22
+#, php-format
+msgid "Archive for &#8216;<span id=\"keyword\"> %s </span>&#8217;"
+msgstr "彙整: &#8216;<span id=\"keyword\"> %s </span>&#8217; "
+
+#: wp-content\themes\neutral/archive.php:16
+#: wp-content\themes\neutral/archive.php:37
+#: wp-content\themes\neutral/comments.php:116
+#: wp-content\themes\neutral/functions.php:354
+#: wp-content\themes\neutral/index.php:10
+#: wp-content\themes\neutral/page-nocomment.php:17
+#: wp-content\themes\neutral/page-noside-nocomment.php:16
+#: wp-content\themes\neutral/page-noside.php:16
+#: wp-content\themes\neutral/page.php:12
+msgid "F jS, Y"
+msgstr "Y年m月j日"
+
+#: wp-content\themes\neutral/archive.php:19
+msgid "F, Y"
+msgstr "Y年m月"
+
+#: wp-content\themes\neutral/archive.php:22
+msgid "Y"
+msgstr "Y年"
+
+#: wp-content\themes\neutral/archive.php:25
+msgid "Author Archive"
+msgstr "作者彙整"
+
+#: wp-content\themes\neutral/archive.php:28
+msgid "Blog Archives"
+msgstr "文章彙整"
+
+#: wp-content\themes\neutral/archive.php:38
+#: wp-content\themes\neutral/index.php:11
+#: wp-content\themes\neutral/page-nocomment.php:18
+#: wp-content\themes\neutral/page-noside-nocomment.php:17
+#: wp-content\themes\neutral/page-noside.php:17
+#: wp-content\themes\neutral/page.php:13
+msgid "By "
+msgstr "發表者: "
+
+#: wp-content\themes\neutral/archive.php:39
+#: wp-content\themes\neutral/comments.php:117
+#: wp-content\themes\neutral/index.php:12
+#: wp-content\themes\neutral/page-nocomment-noinfo.php:15
+#: wp-content\themes\neutral/page-nocomment.php:20
+#: wp-content\themes\neutral/page-noinfo.php:15
+#: wp-content\themes\neutral/page-noside-nocomment-noinfo.php:13
+#: wp-content\themes\neutral/page-noside-nocomment.php:19
+#: wp-content\themes\neutral/page-noside-noinfo.php:13
+#: wp-content\themes\neutral/page-noside.php:19
+#: wp-content\themes\neutral/page.php:15
+msgid "[ EDIT ]"
+msgstr "[ 編輯 ]"
+
+#: wp-content\themes\neutral/archive.php:42
+#: wp-content\themes\neutral/index.php:15
+#: wp-content\themes\neutral/page-nocomment-noinfo.php:17
+#: wp-content\themes\neutral/page-nocomment.php:23
+#: wp-content\themes\neutral/page-noinfo.php:17
+#: wp-content\themes\neutral/page-noside-nocomment-noinfo.php:15
+#: wp-content\themes\neutral/page-noside-nocomment.php:22
+#: wp-content\themes\neutral/page-noside-noinfo.php:15
+#: wp-content\themes\neutral/page-noside.php:22
+#: wp-content\themes\neutral/page.php:18
+msgid "Read more"
+msgstr "閱讀全文"
+
+#: wp-content\themes\neutral/archive.php:53
+#: wp-content\themes\neutral/comments.php:39
+#: wp-content\themes\neutral/index.php:26
+#: wp-content\themes\neutral/page-nocomment.php:19
+#: wp-content\themes\neutral/page-noside-nocomment.php:18
+#: wp-content\themes\neutral/page-noside.php:18
+#: wp-content\themes\neutral/page.php:14
+msgid "Write comment"
+msgstr "留言"
+
+#: wp-content\themes\neutral/archive.php:53
+#: wp-content\themes\neutral/index.php:26
+msgid "1 comment"
+msgstr "有 1 則留言"
+
+#: wp-content\themes\neutral/archive.php:53
+#: wp-content\themes\neutral/index.php:26
+#, php-format
+msgid "% comments"
+msgstr "有 % 則留言"
+
+#: wp-content\themes\neutral/archive.php:59
+#: wp-content\themes\neutral/index.php:32
+#: wp-content\themes\neutral/page-nocomment-noinfo.php:24
+#: wp-content\themes\neutral/page-nocomment.php:30
+#: wp-content\themes\neutral/page-noinfo.php:24
+#: wp-content\themes\neutral/page-noside-nocomment-noinfo.php:22
+#: wp-content\themes\neutral/page-noside-nocomment.php:29
+#: wp-content\themes\neutral/page-noside-noinfo.php:22
+#: wp-content\themes\neutral/page-noside.php:29
+#: wp-content\themes\neutral/page.php:25
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr "抱歉, 找不到您要的資訊."
+
+#: wp-content\themes\neutral/comments.php:10
+#: wp-content\themes\neutral/comments.php:19
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "此文章已被密碼保護, 請輸入密碼以閱讀文章."
+
+#: wp-content\themes\neutral/comments.php:41
+msgid "Comments RSS"
+msgstr "訂閱留言"
+
+#: wp-content\themes\neutral/comments.php:46
+msgid "Trackback"
+msgstr "引用"
+
+#: wp-content\themes\neutral/comments.php:47
+#: wp-content\themes\neutral/comments.php:50
+msgid "Comments"
+msgstr "留言"
+
+#: wp-content\themes\neutral/comments.php:49
+msgid "Trackback are closed"
+msgstr "引用功能關閉"
+
+#: wp-content\themes\neutral/comments.php:78
+msgid "No comments yet."
+msgstr "沒有留言"
+
+#: wp-content\themes\neutral/comments.php:105
+msgid "TrackBack URL"
+msgstr "引用網址"
+
+#: wp-content\themes\neutral/comments.php:120
+msgid "Trackback from : "
+msgstr "引用自: "
+
+#: wp-content\themes\neutral/comments.php:126
+msgid "No trackbacks yet."
+msgstr "尚無引用"
+
+#: wp-content\themes\neutral/comments.php:141
+msgid "Comment are closed."
+msgstr "關閉留言功能"
+
+#: wp-content\themes\neutral/comments.php:156
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "您需要<a href=\"%s\">登入</a>以發表回應。"
+
+#: wp-content\themes\neutral/comments.php:175
+#: wp-content\themes\neutral/comments.php:177
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "已登入 <a href=\"%1$s\">%2$s</a>"
+
+#: wp-content\themes\neutral/comments.php:175
+#: wp-content\themes\neutral/comments.php:177
+msgid "Log out of this account"
+msgstr "登出帳號"
+
+#: wp-content\themes\neutral/comments.php:175
+msgid "[ Log out ]"
+msgstr "[ 登出 ]"
+
+#: wp-content\themes\neutral/comments.php:177
+msgid "Log out"
+msgstr "登出"
+
+#: wp-content\themes\neutral/comments.php:182
+msgid "NAME"
+msgstr "名字"
+
+#: wp-content\themes\neutral/comments.php:182
+#: wp-content\themes\neutral/comments.php:183
+msgid "( required )"
+msgstr "( 必要 )"
+
+#: wp-content\themes\neutral/comments.php:183
+msgid "E-MAIL"
+msgstr "電子信箱"
+
+#: wp-content\themes\neutral/comments.php:183
+msgid "- will not be published -"
+msgstr "- 此訊息不會公開 -"
+
+#: wp-content\themes\neutral/comments.php:184
+msgid "URL"
+msgstr "網址"
+
+#: wp-content\themes\neutral/comments.php:197
+msgid "Submit Comment"
+msgstr "送出留言"
+
+#: wp-content\themes\neutral/footer.php:4
+msgid "Theme designed by mono-lab"
+msgstr "Theme designed by mono-lab"
+
+#: wp-content\themes\neutral/footer.php:5
+msgid "Powered by WordPress"
+msgstr "Powered by WordPress"
+
+#: wp-content\themes\neutral/footer.php:8
+msgid "Return top"
+msgstr "回到頁首"
+
+#: wp-content\themes\neutral/functions.php:164
+#: wp-content\themes\neutral/functions.php:177
+msgid "Neutral Theme Options"
+msgstr "佈景主題選項"
+
+#: wp-content\themes\neutral/functions.php:172
+msgid "Theme options have been saved."
+msgstr "設置已保存"
+
+#: wp-content\themes\neutral/functions.php:181
+#: wp-content\themes\neutral/functions.php:258
+msgid "Save Changes"
+msgstr "保存變更"
+
+#: wp-content\themes\neutral/functions.php:184
+msgid "Check if you would like to use original image for logo instead of using plain text.<br />( Don't forget to upload image to, wp-content/themes/neutral/img/ )"
+msgstr "是否使用Logo圖片 <br />( 圖片請上傳至 wp-content/themes/neutral/img/ )"
+
+#: wp-content\themes\neutral/functions.php:185
+#: wp-content\themes\neutral/functions.php:192
+#: wp-content\themes\neutral/functions.php:195
+#: wp-content\themes\neutral/functions.php:202
+#: wp-content\themes\neutral/functions.php:207
+#: wp-content\themes\neutral/functions.php:214
+#: wp-content\themes\neutral/functions.php:237
+#: wp-content\themes\neutral/functions.php:240
+#: wp-content\themes\neutral/functions.php:243
+#: wp-content\themes\neutral/functions.php:250
+#: wp-content\themes\neutral/functions.php:255
+msgid "Yes"
+msgstr "是"
+
+#: wp-content\themes\neutral/functions.php:186
+msgid "Write your logo file name."
+msgstr "請輸入Logo檔案名稱"
+
+#: wp-content\themes\neutral/functions.php:191
+msgid "Show Search area on header."
+msgstr "在標題欄顯示搜尋列"
+
+#: wp-content\themes\neutral/functions.php:194
+msgid "Use <a href=\"http://www.google.com/cse/\">Google Custom Search</a><br />(If you check this option,don't forget to write your Google Custom Search ID below.)"
+msgstr "使用 <a href=\"http://www.google.com/cse/\">Google 自定義搜尋</a><br />"
+
+#: wp-content\themes\neutral/functions.php:196
+msgid "Input your Google Custom Search ID."
+msgstr "Google自定義搜尋ID"
+
+#: wp-content\themes\neutral/functions.php:201
+msgid "Show RSS button on header."
+msgstr "標題欄顯示RSS訂閱連結"
+
+#: wp-content\themes\neutral/functions.php:206
+msgid "Show Twitter button on header."
+msgstr "標題欄顯示Twitter連結"
+
+#: wp-content\themes\neutral/functions.php:208
+msgid "Write your Twitter URL."
+msgstr "Twitter 網址"
+
+#: wp-content\themes\neutral/functions.php:213
+msgid "Show Information on sidebar."
+msgstr "在側欄顯示公告"
+
+#: wp-content\themes\neutral/functions.php:216
+msgid "Information title."
+msgstr "公告標題"
+
+#: wp-content\themes\neutral/functions.php:219
+msgid "Information contents. ( HTML tag is available. )"
+msgstr "公告內容 （可使用HTML）"
+
+#: wp-content\themes\neutral/functions.php:224
+msgid "Header menu."
+msgstr "頁首選單"
+
+#: wp-content\themes\neutral/functions.php:225
+msgid "Use pages for header menu."
+msgstr "顯示分頁"
+
+#: wp-content\themes\neutral/functions.php:226
+msgid "Use categories for header menu."
+msgstr "顯示分類"
+
+#: wp-content\themes\neutral/functions.php:228
+msgid "Exclude Pages (Page ID's you don't want displayed in your header navigation. Use a comma-delimited list, eg. 1,2,3)"
+msgstr "不在頁首選單顯示之分頁 ( 請輸入分頁編號並用逗號隔開, 例如: 1,2,3 )"
+
+#: wp-content\themes\neutral/functions.php:231
+msgid "Exclude Categories (Category ID's you don't want displayed in your header navigation. Use a comma-delimited list, eg. 1,2,3)"
+msgstr "不在頁首選單顯示之分類 ( 請輸入分類編號並用逗號隔開, 例如: 1,2,3 )"
+
+#: wp-content\themes\neutral/functions.php:236
+msgid "Show author name."
+msgstr "顯示作者名稱"
+
+#: wp-content\themes\neutral/functions.php:239
+msgid "Show bread crumb at single post page."
+msgstr "在文章頁面顯示文章分類路徑"
+
+#: wp-content\themes\neutral/functions.php:242
+msgid "Show next preview post at the bottom of single post page."
+msgstr "在文章底部顯示[上一篇文章]以及[下一篇文章]之連結"
+
+#: wp-content\themes\neutral/functions.php:245
+msgid "Post meta type."
+msgstr "文章資訊"
+
+#: wp-content\themes\neutral/functions.php:246
+msgid "Show category."
+msgstr "顯示分類"
+
+#: wp-content\themes\neutral/functions.php:247
+msgid "Show tag."
+msgstr "顯示標籤"
+
+#: wp-content\themes\neutral/functions.php:249
+msgid "Show time on comment."
+msgstr "顯示回應時間"
+
+#: wp-content\themes\neutral/functions.php:254
+msgid "Check if you want to show Return top link."
+msgstr "是否顯示回到頁首的按鈕"
+
+#: wp-content\themes\neutral/functions.php:354
+msgid " g:ia"
+msgstr " g:ia"
+
+#: wp-content\themes\neutral/functions.php:361
+#: wp-content\themes\neutral/functions.php:363
+#: wp-content\themes\neutral/functions.php:366
+msgid "REPLY"
+msgstr "回覆"
+
+#: wp-content\themes\neutral/functions.php:368
+msgid "QUOTE"
+msgstr "引用"
+
+#: wp-content\themes\neutral/functions.php:369
+msgid "EDIT"
+msgstr "編輯"
+
+#: wp-content\themes\neutral/functions.php:375
+msgid "Your comment is awaiting moderation."
+msgstr "留言等待審核中"
+
+#: wp-content\themes\neutral/header.php:6
+msgid " | "
+msgstr " | "
+
+#: wp-content\themes\neutral/header.php:61
+msgid "Google Search"
+msgstr "Google搜尋"
+
+#: wp-content\themes\neutral/header.php:64
+#: wp-content\themes\neutral/header.php:72
+msgid "Search from this blog."
+msgstr "搜尋本站"
+
+#: wp-content\themes\neutral/header.php:71
+msgid "Search"
+msgstr "搜尋"
+
+#: wp-content\themes\neutral/header.php:78
+msgid "RSS"
+msgstr "RSS訂閱"
+
+#: wp-content\themes\neutral/header.php:81
+msgid "Twitter"
+msgstr "Twitter"
+
+#: wp-content\themes\neutral/header.php:87
+msgid "HOME"
+msgstr "首頁"
+
+#: wp-content\themes\neutral/search.php:8
+msgid "Search results for "
+msgstr "搜尋結果"
+
+#: wp-content\themes\neutral/search.php:8
+msgid " hit"
+msgstr " 筆符合結果"
+
+#: wp-content\themes\neutral/search.php:20
+msgid "[ READ MORE ]"
+msgstr "[ 閱讀全文 ]"
+
+#: wp-content\themes\neutral/sidebar.php:14
+msgid "RECENT ENTRY"
+msgstr "近期文章"
+
+#: wp-content\themes\neutral/sidebar.php:25
+msgid "CATEGORY"
+msgstr "分類"
+
+#: wp-content\themes\neutral/sidebar.php:33
+msgid "ARCHIVES"
+msgstr "彙整"
+
+#: wp-content\themes\neutral/sidebar.php:42
+msgid "LINKS"
+msgstr "連結"
+
+#: wp-content\themes\neutral/single.php:23
+msgid "Posted in "
+msgstr "發表在 "
+

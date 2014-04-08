@@ -1,0 +1,12 @@
+#menu-posts-ec-template .wp-menu-image {
+    background: url('templates-icon-16.png') no-repeat 6px -17px !important;
+}
+#menu-posts-ec-template:hover .wp-menu-image, #menu-posts-ec-template.wp-has-current-submenu .wp-menu-image {
+    background-position: 6px 7px!important;
+}
+.wrap .icon32-posts-ec-template,
+.wrap #icon-edit.icon32-posts-ec-template,
+.wrap #icon-post.icon32-posts-ec-template {
+    background-image: url('templates-icon-32.png');
+    background-position: center;
+}

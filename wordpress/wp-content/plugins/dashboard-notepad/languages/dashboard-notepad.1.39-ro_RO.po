@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# Copyright (C) YEAR Stephanie Leary
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#: dashboard-notepad.php:44
+msgid "Save Notes"
+msgstr "salvaţi Note"
+
+#: dashboard-notepad.php:56
+#: dashboard-notepad.php:68
+msgid "Notepad"
+msgstr "Notepad"
+
+#: dashboard-notepad.php:67
+msgid "Enter here whatever is on your mind."
+msgstr "Introduceţi aici tot ce este în mintea ta."
+
+#: dashboard-notepad.php:87
+msgid "Widget title:"
+msgstr "Widget titlu:"
+
+#: dashboard-notepad.php:91
+#: dashboard-notepad.php:101
+msgid "Admins"
+msgstr "Administratori"
+
+#: dashboard-notepad.php:92
+#: dashboard-notepad.php:102
+msgid "Editors"
+msgstr "Editori"
+
+#: dashboard-notepad.php:93
+#: dashboard-notepad.php:103
+msgid "Authors"
+msgstr "Autori"
+
+#: dashboard-notepad.php:94
+#: dashboard-notepad.php:104
+msgid "Contributors"
+msgstr "Colaboratori"
+
+#: dashboard-notepad.php:95
+#: dashboard-notepad.php:105
+msgid "Subscribers"
+msgstr "abonaţii"
+
+#: dashboard-notepad.php:97
+msgid "and above can <strong>edit</strong> the notes."
+msgstr "şi de mai sus poate edita <strong> </strong> note."
+
+#: dashboard-notepad.php:106
+msgid "The Public"
+msgstr "Public"
+
+#: dashboard-notepad.php:108
+msgid "and above can <strong>read</strong> the notes."
+msgstr "şi de mai sus poate citi <strong> </strong> note."
+
+#: dashboard-notepad.php:112
+msgid "Automatically add paragraphs when displaying the notes on the front end."
+msgstr "Adăuga în mod automat atunci când se afişează punctele notele de pe front-end."
+
+#. Plugin Name of an extension
+msgid "Dashboard Notepad"
+msgstr "Tabloul de bord Notepad"
+
+#. Plugin URI of an extension
+msgid "http://sillybean.net/code/wordpress/dashboard-notepad/"
+msgstr "http://sillybean.net/code/WordPress/Dashboard-Notepad/"
+
+#. Description of an extension
+msgid "The very simplest of notepads for your Dashboard. Based on <a href=\"http://www.contutto.com/\">Alex GÃ¼nsche's</a> Headache With Pictures. You can use the <code><?php dashboard_notes(); ?></code> template tag or the <code>[dashboard_notes]</code> shortcode to display your notes publicly."
+msgstr "Simplu foarte de Carnete pentru tabloul de bord. Bazat pe <a href=\"http://www.contutto.com/\"> Alex GA ¼ de nsche </a> dureri de cap cu poze. Puteţi utiliza <code>; </code> şablon sau <code> [dashboard_notes] </code> scurtătură pentru a afişa notele public <php dashboard_notes()?>."
+
+#. Author of an extension
+msgid "Stephanie Leary"
+msgstr "Stephanie Leary"
+
+#. Author URI of an extension
+msgid "http://sillybean.net/"
+msgstr "http://sillybean.net/"
+
