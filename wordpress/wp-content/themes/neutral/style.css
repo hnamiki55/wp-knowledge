@@ -46,9 +46,9 @@ input[type="text"], input[type="password"], textarea, select { outline:none; }
 #wrapper { width:1000px; margin:0 auto; }
 #header { background:url(img/header.gif) no-repeat top; height:228px; width:1000px; position:relative; }
 #header2 { background:url(img/header.gif) no-repeat top; height:176px; width:1000px; position:relative; }
-#contents { background:url(img/side.gif) repeat-y; clear:both; padding:0 28px; }
-#left_col { float:left; display:inline; width:623px; margin:0; padding:65px 0 0 0; }
-#right_col { float:right; display:inline; width:266px; margin:0 27px 0 0; padding:70px 0 0 0; }
+#contents { background:url(img/bbimage.gif) repeat-y; clear:both; padding:0 28px; }
+#left_col { float:left; display:inline; width:739px; margin:0; padding:65px 0 0 0; }
+#right_col { float:right; display:inline; width:150px; margin:0 27px 0 0; padding:70px 0 0 0; }
 #footer { background:url(img/footer.gif) no-repeat top; height:90px; padding:0 0 30px 0; }
 .no_header_menu { border-bottom:1px solid #ccc; height:1px; width:945px; position:absolute; top:175px; left:28px; }
 

@@ -1086,7 +1086,7 @@ msgstr "Vrati polazno"
 
 #: options/options-init.php
 msgid "CyberChimps WordPress Themes"
-msgstr "CyberChimps Wordpress teme"
+msgstr "CyberChimps WordPress teme"
 
 #: options/options-init.php
 msgid "Default Field"

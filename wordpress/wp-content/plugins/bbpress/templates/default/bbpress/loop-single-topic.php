@@ -52,12 +52,12 @@
 		<?php bbp_topic_pagination(); ?>
 
 		<?php do_action( 'bbp_theme_before_topic_meta' ); ?>
-
+	<li class="bbp-topic-author">
 		<p class="bbp-topic-meta">
 
 			<?php do_action( 'bbp_theme_before_topic_started_by' ); ?>
 
-			<span class="bbp-topic-started-by"><?php printf( __( 'Started by: %1$s', 'bbpress' ), bbp_get_topic_author_link( array( 'size' => '14' ) ) ); ?></span>
+			<span class="bbp-topic-started-by"><?php printf( __( '%1$s', 'bbpress' ), bbp_get_topic_author_link( array( 'size' => '14' ) ) ); ?></span>
 
 			<?php do_action( 'bbp_theme_after_topic_started_by' ); ?>
 
@@ -71,8 +71,7 @@
 
 			<?php endif; ?>
 
-		</p>
-
+	 	</p>
 		<?php do_action( 'bbp_theme_after_topic_meta' ); ?>
 
 		<?php bbp_topic_row_actions(); ?>
@@ -83,7 +82,7 @@
 
 	<li class="bbp-topic-reply-count"><?php bbp_show_lead_topic() ? bbp_topic_reply_count() : bbp_topic_post_count(); ?></li>
 
-	<li class="bbp-topic-freshness">
+	<!-- <li class="bbp-topic-freshness">
 
 		<?php do_action( 'bbp_theme_before_topic_freshness_link' ); ?>
 
@@ -100,6 +99,16 @@
 			<?php do_action( 'bbp_theme_after_topic_freshness_author' ); ?>
 
 		</p>
+	</li> -->
+	<li class="bbp-topic-freshness">
+
+		<?php do_action( 'bbp_theme_before_topic_freshness_link' ); ?>
+
+		<?php bbp_topic_freshness_link(); ?>
+
+		<?php do_action( 'bbp_theme_after_topic_freshness_link' ); ?>
+
 	</li>
+	
 
 </ul><!-- #bbp-topic-<?php bbp_topic_id(); ?> -->

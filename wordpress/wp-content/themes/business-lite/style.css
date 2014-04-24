@@ -4,7 +4,7 @@
  Author: CyberChimps
  Author URI: http://www.cyberchimps.com/
  Description: Business lite 4 is a touch friendly Responsive Drag & Drop WordPress Theme developed by CyberChimps WordPress Themes. It lets you create amazing responsive websites that you can control on any touch friendly device including the iPad, iPhone, and Android devices. Please use the <a href="http://cyberchimps.com/forum/">official support forum</a> (http://cyberchimps.com/forum/). Thank you.
- Version: 4.0.43
+ Version: 4.0.46
  Tags: white, silver, light, gray, two-columns, right-sidebar, responsive-layout, fixed-layout, custom-background, custom-colors, custom-menu, featured-images, post-formats, theme-options, sticky-post, full-width-template
  License: GNU General Public License version 3
  License URI: http://www.opensource.org/licenses/gpl-license.php GPL v3.0 (or later)
@@ -103,6 +103,7 @@ header#cc_header {
 	background-image: -ms-linear-gradient(top, #ffffff, #dadada);
 	background-image: -o-linear-gradient(top, #ffffff, #dadada);
 	padding: 15px 0;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#dadada', GradientType=0);
 }
 
 /*======================================= SOCIAL ==============================================*/
@@ -260,6 +261,9 @@ header#cc_header .header-search {
 	text-shadow: none;
 	color: white;
 }
+#cc_header .nav li.current-menu-item > a, #cc_header nav li a:hover, #cc_header .main-navigation .nav li ul li a:hover, #cc_header .nav li.current_page_item > a, #cc_header .navbar-inverse .current-menu-ancestor.dropdown > a {
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#6eb1dc', endColorstr='#4181ab', GradientType=0);
+}
 
 .nav > li > a {
 	margin-right: 7px;
@@ -275,6 +279,10 @@ header#cc_header .header-search {
 	border-bottom: 1px solid #8b8b8b;
 	border-right: 1px solid #adadad;
 	border-left: 1px solid #adadad;
+}
+
+#cc_header .nav > li > a{
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#e0e0e0', GradientType=0);
 }
 
 .navbar-inverse .navbar-inner {
@@ -303,6 +311,10 @@ header#cc_header .header-search {
 	color: #ffffff;
 	text-shadow: 0 0 0 transparent;
 	background-color: #515151;
+}
+
+.navbar-inverse .navbar-inner, .navbar-inner {
+	filter: none;
 }
 
 @media (max-width: 979px) {

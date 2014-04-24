@@ -126,12 +126,26 @@ body.reply-edit .reply {
 	margin: 0;
 	line-height: 1em;
 }
+li.bbp-forum-info {
+	float: left;
+	text-align: left;
+	width: 25%;
+}
+li.bbp-forum-desc {
+	float: left;
+	text-align: left;
+	width: 45%;
+}
 
-li.bbp-forum-info,
 li.bbp-topic-title {
 	float: left;
 	text-align: left;
-	width: 55%;
+	width: 40%;
+}
+li.bbp-topic-author {
+	float: left;
+	text-align: left;
+	width: 15%;
 }
 li.bbp-forum-topic-count,
 li.bbp-topic-voice-count,
@@ -139,14 +153,19 @@ li.bbp-forum-reply-count,
 li.bbp-topic-reply-count {
 	float: left;
 	text-align: center;
-	width: 10%;
+	width: 8%;
 }
 
-li.bbp-forum-freshness,
-li.bbp-topic-freshness {
+li.bbp-forum-freshness {
 	text-align: center;
 	float: left;
 	width: 22%;
+}
+
+li.bbp-topic-freshness {
+	text-align: center;
+	float: left;
+	width: 20%;
 }
 
 #bbpress-forums li.bbp-body ul.forum,
@@ -218,8 +237,6 @@ li.bbp-header div.bbp-reply-content span#favorite-toggle {
 #bbpress-forums li.bbp-footer .bbp-search-author,
 #bbpress-forums li.bbp-header .bbp-forum-author,
 #bbpress-forums li.bbp-footer .bbp-forum-author,
-#bbpress-forums li.bbp-header .bbp-topic-author,
-#bbpress-forums li.bbp-footer .bbp-topic-author,
 #bbpress-forums li.bbp-header .bbp-reply-author,
 #bbpress-forums li.bbp-footer .bbp-reply-author {
 	float: left;
@@ -535,9 +552,10 @@ td.bbp-topic-counts {
 		}
 
 #bbpress-forums .bbp-forum-info .bbp-forum-content,
+
 #bbpress-forums p.bbp-topic-meta {
 	font-size: 11px;
-	margin: 5px 0 5px;
+	margin: 0px 0px 5px;
 	padding: 0;
 	word-wrap: break-word;
 }

@@ -1,0 +1,761 @@
+# This German Language File: Copyright (C) 2011-2012 by David Decker of deckerweb.de & genesisthemes.de
+# This file is distributed under the same license as the bbPress Admin Bar Addition Plugin package.
+#
+# Weitere deutsche Sprachdateien fuer bbPress Plugin und WordPress sind hier zu finden:
+# --> http://deckerweb.de/sprachdateien/
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: bbPress Admin Bar Addition v1.7\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/bbpress-admin-bar-addition\n"
+"POT-Creation-Date: 2011-12-02 17:30+0100\n"
+"PO-Revision-Date: 2012-08-29 00:22+0100\n"
+"Last-Translator: David Decker <deckerweb.mobil@googlemail.com>\n"
+"Language-Team: DECKERWEB <deckerweb.mobil@googlemail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#@ bbpaba
+#. translators: plugin header field 'Name'
+#: bbpress-admin-bar-addition.php:0
+#: includes/bbpaba-admin.php:109
+#: includes/bbpaba-admin.php:132
+msgid "bbPress Admin Bar Addition"
+msgstr "bbPress Adminbar-Zusatz"
+
+#@ bbpaba
+#. translators: plugin header field 'PluginURI'
+#: bbpress-admin-bar-addition.php:0
+msgid "http://genesisthemes.de/en/wp-plugins/bbpress-admin-bar-addition/"
+msgstr "http://genesisthemes.de/plugins/bbpress-admin-bar-addition/"
+
+#@ bbpaba
+#. translators: plugin header field 'Author'
+#: bbpress-admin-bar-addition.php:0
+msgid "David Decker - DECKERWEB"
+msgstr "David Decker - DECKERWEB.de"
+
+#@ bbpaba
+#. translators: plugin header field 'AuthorURI'
+#: bbpress-admin-bar-addition.php:0
+msgid "http://deckerweb.de/"
+msgstr "http://deckerweb.de/"
+
+#@ bbpaba
+#: includes/bbpaba-admin.php:73
+#: includes/bbpaba-admin.php:176
+msgid "FAQ"
+msgstr "Häufige Fragen - FAQ"
+
+#@ bbpaba
+#: includes/bbpaba-admin.php:74
+#: includes/bbpaba-admin.php:176
+msgid "Support"
+msgstr "Hilfe und Unterstützung (Support)"
+
+#@ bbpaba
+#: includes/bbpaba-admin.php:76
+#: includes/bbpaba-admin.php:176
+msgid "Donate"
+msgstr "Spenden"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:27
+#: includes/bbpaba-resources.php:29
+msgid "bbPress Support Forum"
+msgstr "bbPress Support-Forum"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:59
+#: includes/bbpaba-resources.php:61
+msgid "bbPress Shortcodes"
+msgstr "bbPress 2.x Shortcodes"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:33
+#: includes/bbpaba-resources.php:35
+msgid "Free Support Forum (WP.org)"
+msgstr "Freies Support-Forum (WP.org)"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:111
+#: includes/bbpaba-resources.php:113
+msgid "bbPress HQ"
+msgstr "bbPress Zentrale"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:117
+#: includes/bbpaba-resources.php:119
+msgid "Official Blog"
+msgstr "Offizieller Blog"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:123
+#: includes/bbpaba-resources.php:125
+msgid "Development Updates"
+msgstr "Entwickler-Blog &amp; Updates"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:135
+#: includes/bbpaba-resources.php:137
+msgid "More free plugins/extensions at WP.org"
+msgstr "Mehr freie Plugins/ Erweiterungen bei WP.org"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:220
+msgid "German Support Forum"
+msgstr "Deutsches Support-Forum"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:228
+msgid "German language files"
+msgstr "Deutsche Sprachdateien"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:319
+#: bbpress-admin-bar-addition.php:321
+msgid "Forums"
+msgstr "Foren"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:369
+#: bbpress-admin-bar-addition.php:371
+msgid "Add new Forum"
+msgstr "Neues Forum hinzufügen"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:380
+#: bbpress-admin-bar-addition.php:382
+msgid "Topics"
+msgstr "Themen"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:386
+#: bbpress-admin-bar-addition.php:388
+msgid "Add new Topic"
+msgstr "Neues Thema hinzufügen"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:392
+#: bbpress-admin-bar-addition.php:394
+msgid "Topic Tags"
+msgstr "Themen-Schlagwörter"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:402
+msgid "Replies"
+msgstr "Antworten"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:408
+#: bbpress-admin-bar-addition.php:410
+msgid "Add new Reply"
+msgstr "Neue Antwort hinzufügen"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:443
+msgid "Active Extensions"
+msgstr "Aktive Erweiterungen"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:27
+#: includes/bbpaba-plugins.php:29
+msgid "GD bbPress Attachments"
+msgstr "GD bbPress Dateianhänge"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:314
+#: includes/bbpaba-plugins.php:316
+msgid "bbPress Post Toolbar"
+msgstr "bbPress Post Toolbar (Schreiben-Werkzeugleiste)"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:344
+#: includes/bbpaba-plugins.php:346
+msgid "bbPress reCaptcha"
+msgstr "bbPress reCaptcha (Spamschutz)"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:374
+#: includes/bbpaba-plugins.php:376
+msgid "bbPress2 BBCode"
+msgstr "bbPress2 BBCode"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:389
+#: includes/bbpaba-plugins.php:391
+msgid "bbPress2 Shortcode Whitelist"
+msgstr "bbPress2 Shortcode Whitelist"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:183
+#: bbpress-admin-bar-addition.php:518
+msgid "bbPress"
+msgstr "bbPress"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:129
+#: includes/bbpaba-resources.php:131
+msgid "Trac: Tickets &amp; Bug Reports"
+msgstr "Trac: Tickets &amp; Fehlermeldungen"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:459
+#: includes/bbpaba-plugins.php:461
+msgid "bbConverter"
+msgstr "bbConverter (Transfer-Skript)"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:465
+#: includes/bbpaba-plugins.php:467
+msgid "bbConverter Support Site"
+msgstr "bbConverter Support-Webseite"
+
+#@ bbpaba
+#. translators: plugin header field 'Description'
+#: bbpress-admin-bar-addition.php:0
+msgid "This plugin adds useful admin links and resources for the bbPress 2.x Forum Plugin to the WordPress Toolbar / Admin Bar."
+msgstr "Dieses Plugin fügt der WordPress Werkzeugleiste bzw. Adminbar nützliche Administratorlinks und Resourcen für das bbPress 2.x Forum-Plugin hinzu."
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:329
+#: includes/bbpaba-plugins.php:331
+msgid "bbPress Antispam Settings"
+msgstr "bbPress Antispam Einstellungen"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:195
+#: includes/bbpaba-plugins.php:197
+msgid "bbPress Moderation Settings"
+msgstr "bbPress Moderation Einstellungen"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:201
+#: includes/bbpaba-plugins.php:203
+msgid "Moderation Settings (Plugin)"
+msgstr "Moderation Einstellungen (Plugin)"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:480
+#: includes/bbpaba-plugins.php:482
+msgid "WP SyntaxHighlighter"
+msgstr "WP Syntax-Hervorhebung"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:359
+#: includes/bbpaba-plugins.php:361
+msgid "bbPress WP Tweaks"
+msgstr "bbPress WP-Verbesserungen"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:287
+#: includes/bbpaba-plugins.php:289
+msgid "Members: Adjust Roles &amp; Capabilities"
+msgstr "Members: Benutzerrollen/ -rechte einstellen"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:297
+#: includes/bbpaba-plugins.php:299
+msgid "Members: Add new Role"
+msgstr "Members: Neue Benutzerrolle"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:218
+#: includes/bbpaba-plugins.php:220
+#: includes/bbpaba-plugins.php:244
+#: includes/bbpaba-plugins.php:246
+msgid "WangGuard Moderation Queue"
+msgstr "WangGuard Moderations-Warteschlange"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:230
+#: includes/bbpaba-plugins.php:232
+msgid "WangGuard Wizard"
+msgstr "WangGuard Assistent"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:236
+#: includes/bbpaba-plugins.php:238
+msgid "WangGuard Statistics"
+msgstr "WangGuard Statistik"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:256
+#: includes/bbpaba-plugins.php:258
+msgid "Wizard"
+msgstr "Assistent"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:262
+#: includes/bbpaba-plugins.php:264
+msgid "Statistics"
+msgstr "Statistik"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:268
+#: includes/bbpaba-plugins.php:270
+msgid "Configuration"
+msgstr "Einrichtung"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:407
+#: includes/bbpaba-plugins.php:409
+msgid "Custom Post Type Privacy / User Groups"
+msgstr "Inhaltstypen-Zugangsrechte/ Benutzergruppen"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:419
+#: includes/bbpaba-plugins.php:421
+#: includes/bbpaba-plugins.php:433
+#: includes/bbpaba-plugins.php:435
+msgid "Adjust Forum Privacy"
+msgstr "Foren-Zugangsrechte"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:425
+#: includes/bbpaba-plugins.php:427
+#: includes/bbpaba-plugins.php:441
+#: includes/bbpaba-plugins.php:443
+msgid "Adjust Topic Privacy"
+msgstr "Themen-Zugangsrechte"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:418
+#: bbpress-admin-bar-addition.php:420
+msgid "Users"
+msgstr "Benutzer"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:426
+#: bbpress-admin-bar-addition.php:428
+msgid "Add new User"
+msgstr "Neuen Benutzer hinzufügen"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:186
+msgctxt "Translators: For the tooltip"
+msgid "bbPress"
+msgstr "bbPress"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:141
+msgid "bbPress News Planet"
+msgstr "bbPress Nachrichten Planet"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:143
+msgctxt "Translators: For the tooltip"
+msgid "bbPress News Planet (official and community news via FriendFeed service)"
+msgstr "bbPress Nachrichten Planet (offizielle und Community-Nachrichten via FriendFeed-Dienst)"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:222
+msgctxt "Translators: For the tooltip"
+msgid "Public German Community Support Forum"
+msgstr "Öffentliches Deutsches Community Support-Forum"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:230
+msgctxt "Translators: For the tooltip"
+msgid "German language files for bbPress 2.x plus some extensions"
+msgstr "Deutsche Sprachdateien für bbPress 2.x plus einige Erweiterungen"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:245
+msgid "Main Settings"
+msgstr "Einstellungen"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:255
+#: bbpress-admin-bar-addition.php:257
+msgid "Widgets"
+msgstr "Widgets"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:261
+#: bbpress-admin-bar-addition.php:263
+msgid "Menus"
+msgstr "Menüs"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:289
+msgid "Update Forums"
+msgstr "Foren aktualisieren"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:291
+#, php-format
+msgctxt "Translators: For the tooltip"
+msgid "Update all %s Forums in Multisite"
+msgstr "Alle %s Foren in Multisite aktualisieren"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:301
+#, php-format
+msgctxt "Translators: For the tooltip"
+msgid "bbPress Converter: Convert other forum systems to %s"
+msgstr "bbPress Konverter: andere Forensysteme zu %s konvertieren"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:341
+#: bbpress-admin-bar-addition.php:343
+msgid "View Forums"
+msgstr "Foren ansehen"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:445
+msgctxt "Translators: For the tooltip"
+msgid "Active Extensions"
+msgstr "Aktive Erweiterungen"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:521
+msgctxt "Translators: For the tooltip"
+msgid "bbPress Forums"
+msgstr "bbPress Foren"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:35
+#: includes/bbpaba-plugins.php:37
+#: includes/bbpaba-plugins.php:135
+#: includes/bbpaba-plugins.php:137
+#: includes/bbpaba-plugins.php:173
+#: includes/bbpaba-plugins.php:175
+msgid "Attachments"
+msgstr "Dateianhänge"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:53
+#: includes/bbpaba-plugins.php:55
+msgid "GD bbPress Tools"
+msgstr "GD bbPress Werkzeuge"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:59
+#: includes/bbpaba-plugins.php:61
+#: includes/bbpaba-plugins.php:79
+#: includes/bbpaba-plugins.php:81
+msgid "BBCodes Settings"
+msgstr "BBCode Einstellungen"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:65
+#: includes/bbpaba-plugins.php:67
+#: includes/bbpaba-plugins.php:85
+#: includes/bbpaba-plugins.php:87
+msgid "Views Settings"
+msgstr "Ansichten Einstellungen"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:73
+#: includes/bbpaba-plugins.php:75
+msgid "Tools"
+msgstr "Werkzeuge"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:103
+#: includes/bbpaba-plugins.php:105
+msgid "GD bbPress Widgets"
+msgstr "GD bbPress Widgets"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:111
+msgid "Widgets Settings"
+msgstr "Widgets-Einstellungen"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:113
+msgctxt "Translators: For the tooltip"
+msgid "Additional Widgets Settings"
+msgstr "Zusätzliche Widgets-Einstellungen"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:224
+#: includes/bbpaba-plugins.php:226
+#: includes/bbpaba-plugins.php:250
+#: includes/bbpaba-plugins.php:252
+msgid "WangGuard Users"
+msgstr "WangGuard Benutzer"
+
+#@ bbpaba
+#: includes/bbpaba-themes.php:40
+msgid "Theme Settings"
+msgstr "Theme-Einstellungen"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:247
+msgctxt "Translators: For the tooltip"
+msgid "Main Settings"
+msgstr "Haupteinstellungen"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:85
+msgid "bbPress 2.0 Hooks &amp; Filters"
+msgstr "bbPress 2.0 Hooks &amp; Filter"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:87
+msgctxt "Translators: For the tooltip"
+msgid "bbPress 2.0 Hooks, Filters &amp; Components (Dev Docs)"
+msgstr "bbPress 2.0 Hooks, Filter &amp; Komponenten (Entwickler-Dokumentation)"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:47
+#: includes/bbpaba-resources.php:49
+#: includes/bbpaba-resources.php:103
+msgid "Getting Started with bbPress"
+msgstr "Loslegen mit bbPress"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:105
+msgctxt "Translators: For the tooltip"
+msgid "Getting Started with bbPress (Smashing Magazine)"
+msgstr "Loslegen mit bbPress - Blog-Beitrag, Smashing Magazine"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:404
+msgctxt "Translators: For the tooltip"
+msgid "Replies"
+msgstr "Antworten (Beiträge zu Themen)"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:91
+msgid "Video: bbPress Installation"
+msgstr "Video: bbPress Installation"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:93
+msgctxt "Translators: For the tooltip"
+msgid "Video: bbPress Installation"
+msgstr "Video: bbPress 2.0 Plugin Installation &amp; Einrichtung"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:97
+msgid "Video: bbPress Theming"
+msgstr "Video: bbPress Theme-Anpassung"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:99
+msgctxt "Translators: For the tooltip"
+msgid "Video: bbPress Theming"
+msgstr "Video-Tutorial: bbPress Theme-Anpassungen"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:495
+#: includes/bbpaba-plugins.php:497
+msgid "s2Member Integration"
+msgstr "s2Member Integration"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:501
+#: includes/bbpaba-plugins.php:503
+msgid "s2Member Settings"
+msgstr "s2Member Einstellungen"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:129
+#: includes/bbpaba-plugins.php:131
+msgid "GD bbPress Toolbox"
+msgstr "GD bbPress Werkzeuge"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:141
+#: includes/bbpaba-plugins.php:143
+#: includes/bbpaba-plugins.php:179
+#: includes/bbpaba-plugins.php:181
+msgid "Settings"
+msgstr "Einstellungen"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:147
+#: includes/bbpaba-plugins.php:149
+msgid "Error Log"
+msgstr "Fehlerprotokoll"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:153
+#: includes/bbpaba-plugins.php:155
+msgid "Overview"
+msgstr "Übersicht"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:159
+#: includes/bbpaba-plugins.php:161
+msgid "About"
+msgstr "Infos zum Plugin"
+
+#@ bbpaba
+#: includes/bbpaba-plugins.php:167
+#: includes/bbpaba-plugins.php:169
+msgid "Toolbox"
+msgstr "Werkzeuge"
+
+#@ bbpaba
+#: includes/bbpaba-admin.php:48
+msgid "Go to the bbPress Forums settings page"
+msgstr "Zur bbPress Foren Einstellungen-Seite ..."
+
+#@ bbpaba
+#: includes/bbpaba-admin.php:48
+msgid "bbPress Settings"
+msgstr "bbPress Einstellungen"
+
+#@ bbpaba
+#: includes/bbpaba-admin.php:75
+#: includes/bbpaba-admin.php:176
+msgid "Translations"
+msgstr "Übersetzungen"
+
+#@ bbpaba
+#: includes/bbpaba-admin.php:134
+msgid "Suggest new resource items, themes or plugins for support"
+msgstr "Neue Links für Ressourcen-Links, unterstützte Themes oder Plugins vorschlagen"
+
+#@ bbpaba
+#: includes/bbpaba-admin.php:135
+msgid "Code snippets for customizing &amp; branding"
+msgstr "Code-Schnipsel fürs Anpassen und Branden des Plugins"
+
+#@ bbpaba
+#: includes/bbpaba-admin.php:144
+msgid "Other, recommended bbPress plugins"
+msgstr "Weitere, empfohlene bbPress Plugins"
+
+#@ bbpaba
+#: includes/bbpaba-admin.php:148
+msgid "search functionality for the bbPress forums, independent from regular WordPress search"
+msgstr "Suchfunktionalität für bbPress 2.x Foren, unabhängig von der regulären WordPress-Suche"
+
+#@ bbpaba
+#: includes/bbpaba-admin.php:154
+msgid "elegant anti spam solution plus notify options"
+msgstr "elegante Antispam-Lösung, plus Benachrichtigungs-Optionen"
+
+#@ bbpaba
+#: includes/bbpaba-admin.php:175
+msgid "Important plugin links:"
+msgstr "Wichtige Plugin-Links:"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:352
+msgctxt "Translators: For the tooltip"
+msgid "View Forum"
+msgstr "Forum aufrufen"
+
+#@ bbpaba
+#: includes/bbpaba-admin.php:132
+msgid "Plugin"
+msgstr "Plugin"
+
+#@ bbpaba
+#. translators: plugin header field 'Version'
+#: bbpress-admin-bar-addition.php:0
+msgid "1.7.1"
+msgstr "1.7.1"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:279
+msgid "Repair Forums"
+msgstr "Foren reparieren"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:281
+msgctxt "Translators: For the tooltip"
+msgid "Repair Forum Relationships for Topics, Replies, Voices etc."
+msgstr "Foren-Beziehungen für Themen, Antworten, Stimmen etc. reparieren"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:299
+msgid "Import Forums"
+msgstr "Foren importieren"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:309
+msgid "Reset Forums"
+msgstr "Foren zurücksetzen"
+
+#@ bbpaba
+#: bbpress-admin-bar-addition.php:311
+#, php-format
+msgctxt "Translators: For the tooltip"
+msgid "Reset Forums to brand new %s install"
+msgstr "Alle Foren auf eine brandneue %s Installation zurücksetzen"
+
+#@ bbpaba
+#: includes/bbpaba-admin.php:176
+msgid "Plugin Website"
+msgstr "Plugin-Webseite"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:41
+msgid "bbPress Documentation"
+msgstr "bbPress Dokumentation"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:43
+msgctxt "Translators: For the tooltip"
+msgid "bbPress Documentation"
+msgstr "bbPress Dokumentation (Codex)"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:53
+#: includes/bbpaba-resources.php:55
+msgid "Forum Settings"
+msgstr "Foren-Einstellungen"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:65
+#: includes/bbpaba-resources.php:67
+msgid "bbPress Widgets"
+msgstr "bbPress Widgets"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:71
+#: includes/bbpaba-resources.php:73
+msgid "Theme Compatibility"
+msgstr "Theme-Kompatibilität"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:79
+msgid "bbPress 2.0 FAQ"
+msgstr "bbPress 2.0 FAQ"
+
+#@ bbpaba
+#: includes/bbpaba-resources.php:81
+msgctxt "Translators: For the tooltip"
+msgid "bbPress 2.0 FAQ"
+msgstr "bbPress 2.0 Häufige Fragen (FAQ)"
+
+#@ bbpaba
+#: includes/bbpaba-admin.php:116
+msgid "More about the plugin author"
+msgstr "Mehr über den Plugin-Autor"
+
+#@ bbpaba
+#: includes/bbpaba-admin.php:117
+msgid "Social:"
+msgstr "Vernetzen:"
+
+#@ bbpaba
+#: includes/bbpaba-admin.php:154
+msgid "currently best free solution out there!"
+msgstr "derzeit die beste frei erhältliche Lösung!"
+
+#@ bbpaba
+#: includes/bbpaba-admin.php:160
+msgid "implements attachments for topics &amp; replies via media library"
+msgstr "implementiert Dateianhänge für Forenthemen und -Antworten via WordPress Mediathek"
+
+#@ bbpaba
+#: includes/bbpaba-admin.php:166
+msgid "replace the comments on blog posts with topics from your integrated bbPress install"
+msgstr "Kommente von (Blog-) Artikeln mit Themen einer integrierten bbPress-Installation ersetzen"
+

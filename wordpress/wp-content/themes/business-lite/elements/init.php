@@ -26,11 +26,9 @@ function cyberchimps_add_elements_style() {
 	// Set directory uri
 	$directory_uri = get_template_directory_uri();
 
-	wp_register_style( 'elements_style', $directory_uri . '/elements/lib/css/elements.css' );
-	wp_enqueue_style( 'elements_style' );
+	wp_enqueue_style( 'elements_style', $directory_uri . '/elements/lib/css/elements.css' );
 
-	wp_register_script( 'elements_js', $directory_uri . '/elements/lib/js/elements.min.js' );
-	wp_enqueue_script( 'elements_js', array( 'jquery' ) );
+	wp_enqueue_script( 'elements_js', $directory_uri . '/elements/lib/js/elements.min.js' );
 }
 
 add_action( 'wp_enqueue_scripts', 'cyberchimps_add_elements_style', 30 );
