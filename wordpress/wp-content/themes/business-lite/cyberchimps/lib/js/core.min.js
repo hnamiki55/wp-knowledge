@@ -1,1 +1,0 @@
-jQuery(document).ready(function(){jQuery("html").click(function(){if(jQuery(".nav-collapse").hasClass("in")){jQuery(".nav-collapse").collapse("toggle")}});jQuery("#navigation .search-query").click(function(e){e.stopPropagation()})});
